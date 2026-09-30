@@ -158,6 +158,48 @@ AFLoc_R/
 └── README.md
 ```
 
+## Novelty
+
+This project provides four empirical contributions to the 
+understanding of annotation-free medical vision-language models:
+
+### 1. Systematic quantification of prompt sensitivity
+While AFLoc's paper recommends "precise clinical descriptions," it 
+does not quantify how much performance varies across semantically 
+equivalent prompts. We measure a **4.2× IoU swing** — with the 
+paper's own recommended default ("findings suggesting pneumonia") 
+being the **worst-performing** of 10 variants.
+
+### 2. The "Location > Shape" effect in prompt design
+Our controlled experiment shows that **location-aware prompts (NL) 
+outperform shape-based prompts (NS) by 78%**, and combining both 
+(NSL) yields no further gain. This is a practical prompt-design 
+insight for the medical VLM community.
+
+### 3. Quantifying the ensemble trade-off
+Averaging heatmaps from multiple prompts is an obvious robustness 
+strategy, but its effect had not been quantified in this setting. 
+**Ensembling improves worst-case safety by +494%** but **sacrifices 
+42% of peak accuracy** — formalizing a fundamental trade-off.
+
+### 4. Cross-dataset degradation baseline on RSNA
+AFLoc reports 0.324 IoU on in-domain MS-CXR. We report **0.062 IoU 
+on RSNA Pneumonia** — a **5.2× degradation** — providing a 
+reproducible baseline for domain-transfer evaluation.
+
+### Significance
+These findings suggest AFLoc's central promise — annotation-free 
+localization — is **more prompt-fragile and domain-fragile** than 
+the original paper's benchmark results imply.
+
+## Future Work
+
+**In Progress — Learned Prompt Selector.** Training a lightweight MLP (~230K parameters) that takes AFLoc's frozen image features as input and predicts the optimal prompt per image. Trained on our existing 2,000 IoU results.
+
+**Planned — Multi-Disease Extension.** Repeat the robustness protocol on atelectasis, cardiomegaly, and pleural effusion to build a per-disease sensitivity profile.
+
+**Planned — Few-Shot Recovery.** Fine-tune AFLoc on 1%, 5%, and 10% of labeled RSNA data to measure how quickly the 5.2× domain gap closes.
+
 ## Scope and Interpretation
 
 This repository is an empirical robustness study rather than a new model-training contribution. AFLoc remains frozen throughout evaluation, and the analysis focuses on inference-time prompt variation and dataset transfer.

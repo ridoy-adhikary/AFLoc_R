@@ -1,0 +1,4 @@
+Ensemble mean IoU: 0.0773
+Ensemble std IoU:  0.0576
+Best single mean:  0.1330
+Worst single mean: 0.0130

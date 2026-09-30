@@ -1,0 +1,2001 @@
+patientId,prompt,category,iou
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,pneumonia,N,0.013159026404048198
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,findings suggesting pneumonia,N,0.0
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,evidence of pneumonia,N,0.020531924109832338
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,left lower lobe pneumonia,NL,0.07905102134278734
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,right upper lobe pneumonia,NL,0.013591397849450673
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,basilar pneumonia,NL,0.00709583653927751
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,patchy pneumonia,NS,0.0003396739130431898
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,focal pneumonia,NS,0.0011047845670084941
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,patchy consolidation in the left lower lobe,NSL,0.09296715531629897
+020380f8-5c5a-4ded-bdf3-9ce3036945b4,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.000934658849519131
+03249840-0a17-448c-bf41-7e156428ab59,pneumonia,N,0.07172264355355176
+03249840-0a17-448c-bf41-7e156428ab59,findings suggesting pneumonia,N,0.01300563236045775
+03249840-0a17-448c-bf41-7e156428ab59,evidence of pneumonia,N,0.05672470889856134
+03249840-0a17-448c-bf41-7e156428ab59,left lower lobe pneumonia,NL,0.036137006389403856
+03249840-0a17-448c-bf41-7e156428ab59,right upper lobe pneumonia,NL,0.0876305662450933
+03249840-0a17-448c-bf41-7e156428ab59,basilar pneumonia,NL,0.06801986611955514
+03249840-0a17-448c-bf41-7e156428ab59,patchy pneumonia,NS,0.006716873600644497
+03249840-0a17-448c-bf41-7e156428ab59,focal pneumonia,NS,0.016649537512829753
+03249840-0a17-448c-bf41-7e156428ab59,patchy consolidation in the left lower lobe,NSL,0.05582239299812592
+03249840-0a17-448c-bf41-7e156428ab59,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02687837276875583
+06893030-14ab-456d-a22d-05070773e370,pneumonia,N,0.038423515455059364
+06893030-14ab-456d-a22d-05070773e370,findings suggesting pneumonia,N,0.00446229361891728
+06893030-14ab-456d-a22d-05070773e370,evidence of pneumonia,N,0.03767123287668752
+06893030-14ab-456d-a22d-05070773e370,left lower lobe pneumonia,NL,0.11404935303675737
+06893030-14ab-456d-a22d-05070773e370,right upper lobe pneumonia,NL,0.02933298490884606
+06893030-14ab-456d-a22d-05070773e370,basilar pneumonia,NL,0.01612279117759827
+06893030-14ab-456d-a22d-05070773e370,patchy pneumonia,NS,0.006837497603676377
+06893030-14ab-456d-a22d-05070773e370,focal pneumonia,NS,0.0008257113821132966
+06893030-14ab-456d-a22d-05070773e370,patchy consolidation in the left lower lobe,NSL,0.2290171606862488
+06893030-14ab-456d-a22d-05070773e370,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.024513947590854727
+068b608d-f71c-4859-b909-62c1665b507f,pneumonia,N,0.0
+068b608d-f71c-4859-b909-62c1665b507f,findings suggesting pneumonia,N,0.0
+068b608d-f71c-4859-b909-62c1665b507f,evidence of pneumonia,N,0.009415996614463166
+068b608d-f71c-4859-b909-62c1665b507f,left lower lobe pneumonia,NL,0.008136094674547616
+068b608d-f71c-4859-b909-62c1665b507f,right upper lobe pneumonia,NL,0.008562367864684395
+068b608d-f71c-4859-b909-62c1665b507f,basilar pneumonia,NL,0.006328446366410369
+068b608d-f71c-4859-b909-62c1665b507f,patchy pneumonia,NS,0.0
+068b608d-f71c-4859-b909-62c1665b507f,focal pneumonia,NS,0.0
+068b608d-f71c-4859-b909-62c1665b507f,patchy consolidation in the left lower lobe,NSL,0.013275276125729315
+068b608d-f71c-4859-b909-62c1665b507f,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.009950248756208372
+06a4f477-34ca-4625-945b-81bfa9e77273,pneumonia,N,0.16363838417504936
+06a4f477-34ca-4625-945b-81bfa9e77273,findings suggesting pneumonia,N,0.15059612109216494
+06a4f477-34ca-4625-945b-81bfa9e77273,evidence of pneumonia,N,0.14069393757822282
+06a4f477-34ca-4625-945b-81bfa9e77273,left lower lobe pneumonia,NL,0.15091228841495333
+06a4f477-34ca-4625-945b-81bfa9e77273,right upper lobe pneumonia,NL,0.08054279964909936
+06a4f477-34ca-4625-945b-81bfa9e77273,basilar pneumonia,NL,0.16266933155664964
+06a4f477-34ca-4625-945b-81bfa9e77273,patchy pneumonia,NS,0.18732282571709527
+06a4f477-34ca-4625-945b-81bfa9e77273,focal pneumonia,NS,0.145560964936193
+06a4f477-34ca-4625-945b-81bfa9e77273,patchy consolidation in the left lower lobe,NSL,0.10810095772257362
+06a4f477-34ca-4625-945b-81bfa9e77273,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.033407352578320545
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,pneumonia,N,0.0046433511163755745
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,findings suggesting pneumonia,N,0.0
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,evidence of pneumonia,N,0.058939914609956325
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,left lower lobe pneumonia,NL,0.14787222034072933
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,right upper lobe pneumonia,NL,0.0008855652858399236
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,basilar pneumonia,NL,0.009831181727894904
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,patchy pneumonia,NS,0.0
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,focal pneumonia,NS,0.02293531837840968
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,patchy consolidation in the left lower lobe,NSL,0.06259143155688339
+06cc9b59-b8ff-4a6b-9e5b-f127c7c1208d,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0019706375012297065
+08d8e57a-4835-445b-8c79-8dd31ab17819,pneumonia,N,0.07005011809431992
+08d8e57a-4835-445b-8c79-8dd31ab17819,findings suggesting pneumonia,N,0.018980744966800713
+08d8e57a-4835-445b-8c79-8dd31ab17819,evidence of pneumonia,N,0.07085206964137504
+08d8e57a-4835-445b-8c79-8dd31ab17819,left lower lobe pneumonia,NL,0.12473508931267045
+08d8e57a-4835-445b-8c79-8dd31ab17819,right upper lobe pneumonia,NL,0.03637783853147555
+08d8e57a-4835-445b-8c79-8dd31ab17819,basilar pneumonia,NL,0.08752927400463259
+08d8e57a-4835-445b-8c79-8dd31ab17819,patchy pneumonia,NS,0.013919213973791528
+08d8e57a-4835-445b-8c79-8dd31ab17819,focal pneumonia,NS,0.03545348124196697
+08d8e57a-4835-445b-8c79-8dd31ab17819,patchy consolidation in the left lower lobe,NSL,0.17704834928066848
+08d8e57a-4835-445b-8c79-8dd31ab17819,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03349282296648854
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,pneumonia,N,0.07839992872732006
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,findings suggesting pneumonia,N,0.06970373152462946
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,evidence of pneumonia,N,0.06289377208964
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,left lower lobe pneumonia,NL,0.07948186297458822
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,right upper lobe pneumonia,NL,0.05831693989069764
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,basilar pneumonia,NL,0.08536202645144915
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,patchy pneumonia,NS,0.07818380207983651
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,focal pneumonia,NS,0.0585251743512257
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,patchy consolidation in the left lower lobe,NSL,0.08514310047287364
+08da8f40-b186-473b-9fa3-1caa4ecdc02b,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.035789924056041124
+09137a8c-017a-4bc3-8195-1d152b992cd0,pneumonia,N,0.10290468986381153
+09137a8c-017a-4bc3-8195-1d152b992cd0,findings suggesting pneumonia,N,0.012049865341363233
+09137a8c-017a-4bc3-8195-1d152b992cd0,evidence of pneumonia,N,0.10598337277744221
+09137a8c-017a-4bc3-8195-1d152b992cd0,left lower lobe pneumonia,NL,0.1255171987895617
+09137a8c-017a-4bc3-8195-1d152b992cd0,right upper lobe pneumonia,NL,0.030795769470043893
+09137a8c-017a-4bc3-8195-1d152b992cd0,basilar pneumonia,NL,0.10237101554463729
+09137a8c-017a-4bc3-8195-1d152b992cd0,patchy pneumonia,NS,0.055021707670027495
+09137a8c-017a-4bc3-8195-1d152b992cd0,focal pneumonia,NS,0.10534615034717976
+09137a8c-017a-4bc3-8195-1d152b992cd0,patchy consolidation in the left lower lobe,NSL,0.10210437201424016
+09137a8c-017a-4bc3-8195-1d152b992cd0,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.01770109166037979
+0949d712-9d3c-424a-99b5-423a598d8b97,pneumonia,N,0.07927702219026615
+0949d712-9d3c-424a-99b5-423a598d8b97,findings suggesting pneumonia,N,0.00016583747927004008
+0949d712-9d3c-424a-99b5-423a598d8b97,evidence of pneumonia,N,0.09257246376794824
+0949d712-9d3c-424a-99b5-423a598d8b97,left lower lobe pneumonia,NL,0.01771852851836362
+0949d712-9d3c-424a-99b5-423a598d8b97,right upper lobe pneumonia,NL,0.04595907041268477
+0949d712-9d3c-424a-99b5-423a598d8b97,basilar pneumonia,NL,0.08823529411748784
+0949d712-9d3c-424a-99b5-423a598d8b97,patchy pneumonia,NS,0.008697106539540563
+0949d712-9d3c-424a-99b5-423a598d8b97,focal pneumonia,NS,0.07889087656515405
+0949d712-9d3c-424a-99b5-423a598d8b97,patchy consolidation in the left lower lobe,NSL,0.03857413466499299
+0949d712-9d3c-424a-99b5-423a598d8b97,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0051666666666580555
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,pneumonia,N,0.04538601187727456
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,findings suggesting pneumonia,N,0.001090255473376819
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,evidence of pneumonia,N,0.05996505678270936
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,left lower lobe pneumonia,NL,0.13625418060196112
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,right upper lobe pneumonia,NL,0.023806653809057436
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,basilar pneumonia,NL,0.14456085975132413
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,patchy pneumonia,NS,0.017398856047669452
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,focal pneumonia,NS,0.01694204980842405
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,patchy consolidation in the left lower lobe,NSL,0.1437516832749314
+0a9c4c04-5918-48da-9ba1-b2a3add66ae9,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02027087900536945
+0adcbadd-6b95-4692-bdfb-6a03d51af237,pneumonia,N,0.1530852185192953
+0adcbadd-6b95-4692-bdfb-6a03d51af237,findings suggesting pneumonia,N,0.12383436067636806
+0adcbadd-6b95-4692-bdfb-6a03d51af237,evidence of pneumonia,N,0.12757691087842724
+0adcbadd-6b95-4692-bdfb-6a03d51af237,left lower lobe pneumonia,NL,0.27496862112222076
+0adcbadd-6b95-4692-bdfb-6a03d51af237,right upper lobe pneumonia,NL,0.08598701794571516
+0adcbadd-6b95-4692-bdfb-6a03d51af237,basilar pneumonia,NL,0.1464850048370312
+0adcbadd-6b95-4692-bdfb-6a03d51af237,patchy pneumonia,NS,0.09560862865940245
+0adcbadd-6b95-4692-bdfb-6a03d51af237,focal pneumonia,NS,0.12481214901516663
+0adcbadd-6b95-4692-bdfb-6a03d51af237,patchy consolidation in the left lower lobe,NSL,0.1464850048370312
+0adcbadd-6b95-4692-bdfb-6a03d51af237,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0888140264910123
+0af9ad69-4d76-4de9-b93a-294478a97866,pneumonia,N,0.15994724943471492
+0af9ad69-4d76-4de9-b93a-294478a97866,findings suggesting pneumonia,N,0.009178823143741912
+0af9ad69-4d76-4de9-b93a-294478a97866,evidence of pneumonia,N,0.15350028102157404
+0af9ad69-4d76-4de9-b93a-294478a97866,left lower lobe pneumonia,NL,0.14343196731450822
+0af9ad69-4d76-4de9-b93a-294478a97866,right upper lobe pneumonia,NL,0.07891355140182306
+0af9ad69-4d76-4de9-b93a-294478a97866,basilar pneumonia,NL,0.13187082541814335
+0af9ad69-4d76-4de9-b93a-294478a97866,patchy pneumonia,NS,0.06997624978273187
+0af9ad69-4d76-4de9-b93a-294478a97866,focal pneumonia,NS,0.11789626581122199
+0af9ad69-4d76-4de9-b93a-294478a97866,patchy consolidation in the left lower lobe,NSL,0.14421111317590024
+0af9ad69-4d76-4de9-b93a-294478a97866,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.014945876147032832
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,pneumonia,N,0.027023795288739657
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,findings suggesting pneumonia,N,0.0005824790307542142
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,evidence of pneumonia,N,0.06536839493913996
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,left lower lobe pneumonia,NL,0.14428457234193406
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,right upper lobe pneumonia,NL,0.00597329585382294
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,basilar pneumonia,NL,0.006444808999289378
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,patchy pneumonia,NS,0.0
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,focal pneumonia,NS,0.00703482237072689
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,patchy consolidation in the left lower lobe,NSL,0.03257994710262974
+0bed2d9d-8a11-41d9-b312-41f8c93791f7,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02007125890733958
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,pneumonia,N,0.03409961685820488
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,findings suggesting pneumonia,N,0.05111478921229567
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,evidence of pneumonia,N,0.06764240506322423
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,left lower lobe pneumonia,NL,0.07124429450280685
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,right upper lobe pneumonia,NL,0.11425327691184409
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,basilar pneumonia,NL,0.08100530689888755
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,patchy pneumonia,NS,0.0037188545927819643
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,focal pneumonia,NS,0.0306443914080853
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,patchy consolidation in the left lower lobe,NSL,0.037279016141393846
+0c15e437-7eea-4ed1-b1d8-124f79cc1893,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.090064620355321
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,pneumonia,N,0.028856526429303052
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,findings suggesting pneumonia,N,0.0
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,evidence of pneumonia,N,0.05139864957964531
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,left lower lobe pneumonia,NL,0.10579710144912204
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,right upper lobe pneumonia,NL,0.0021013921723113983
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,basilar pneumonia,NL,0.11631309436705733
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,patchy pneumonia,NS,0.010863804981437648
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,focal pneumonia,NS,0.01787620064031767
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,patchy consolidation in the left lower lobe,NSL,0.09343651476054252
+0f831256-0a69-4fe5-9719-1563d2b6b7b9,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0026281208935576505
+1004476c-1b00-4ccd-9c72-193b6a048e15,pneumonia,N,0.09416135881094037
+1004476c-1b00-4ccd-9c72-193b6a048e15,findings suggesting pneumonia,N,0.01999010390893618
+1004476c-1b00-4ccd-9c72-193b6a048e15,evidence of pneumonia,N,0.09988261658296885
+1004476c-1b00-4ccd-9c72-193b6a048e15,left lower lobe pneumonia,NL,0.008414049505910954
+1004476c-1b00-4ccd-9c72-193b6a048e15,right upper lobe pneumonia,NL,0.006936303243447697
+1004476c-1b00-4ccd-9c72-193b6a048e15,basilar pneumonia,NL,0.09462616822419856
+1004476c-1b00-4ccd-9c72-193b6a048e15,patchy pneumonia,NS,0.085633031388155
+1004476c-1b00-4ccd-9c72-193b6a048e15,focal pneumonia,NS,0.13463232056348015
+1004476c-1b00-4ccd-9c72-193b6a048e15,patchy consolidation in the left lower lobe,NSL,0.002528936873842497
+1004476c-1b00-4ccd-9c72-193b6a048e15,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0013601476731746234
+10866808-61ec-41fa-aefd-89eedfbaec04,pneumonia,N,0.08768172377979772
+10866808-61ec-41fa-aefd-89eedfbaec04,findings suggesting pneumonia,N,0.005338932213554085
+10866808-61ec-41fa-aefd-89eedfbaec04,evidence of pneumonia,N,0.13481852654378737
+10866808-61ec-41fa-aefd-89eedfbaec04,left lower lobe pneumonia,NL,0.14489684383102547
+10866808-61ec-41fa-aefd-89eedfbaec04,right upper lobe pneumonia,NL,0.04763095386920388
+10866808-61ec-41fa-aefd-89eedfbaec04,basilar pneumonia,NL,0.10686216234059384
+10866808-61ec-41fa-aefd-89eedfbaec04,patchy pneumonia,NS,0.03189458777166929
+10866808-61ec-41fa-aefd-89eedfbaec04,focal pneumonia,NS,0.11296320892541309
+10866808-61ec-41fa-aefd-89eedfbaec04,patchy consolidation in the left lower lobe,NSL,0.07346912631304543
+10866808-61ec-41fa-aefd-89eedfbaec04,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.009578313253006277
+142c7419-9cd2-4436-8860-cd2c4355abff,pneumonia,N,0.060662945215600124
+142c7419-9cd2-4436-8860-cd2c4355abff,findings suggesting pneumonia,N,0.02029081923587707
+142c7419-9cd2-4436-8860-cd2c4355abff,evidence of pneumonia,N,0.05794530672576598
+142c7419-9cd2-4436-8860-cd2c4355abff,left lower lobe pneumonia,NL,0.11537662337656343
+142c7419-9cd2-4436-8860-cd2c4355abff,right upper lobe pneumonia,NL,0.027222275380333352
+142c7419-9cd2-4436-8860-cd2c4355abff,basilar pneumonia,NL,0.06624621343791715
+142c7419-9cd2-4436-8860-cd2c4355abff,patchy pneumonia,NS,0.06916641768744689
+142c7419-9cd2-4436-8860-cd2c4355abff,focal pneumonia,NS,0.02741889175996391
+142c7419-9cd2-4436-8860-cd2c4355abff,patchy consolidation in the left lower lobe,NSL,0.11863082213185441
+142c7419-9cd2-4436-8860-cd2c4355abff,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.018402580155559473
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,pneumonia,N,0.13331641500649946
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,findings suggesting pneumonia,N,0.05144404332127945
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,evidence of pneumonia,N,0.12070768329912555
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,left lower lobe pneumonia,NL,0.1204265105581767
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,right upper lobe pneumonia,NL,0.07334561768944346
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,basilar pneumonia,NL,0.13629617064580116
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,patchy pneumonia,NS,0.07124295366406619
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,focal pneumonia,NS,0.09829077345571247
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,patchy consolidation in the left lower lobe,NSL,0.13716419810714375
+1636e48a-74eb-48d3-9a84-83f99af0a1fc,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.06434955312807772
+16e5a578-1e41-4fa1-ba13-bf18051625cc,pneumonia,N,0.07041119118267468
+16e5a578-1e41-4fa1-ba13-bf18051625cc,findings suggesting pneumonia,N,0.014993769345172249
+16e5a578-1e41-4fa1-ba13-bf18051625cc,evidence of pneumonia,N,0.10459775143265033
+16e5a578-1e41-4fa1-ba13-bf18051625cc,left lower lobe pneumonia,NL,0.17066159766323397
+16e5a578-1e41-4fa1-ba13-bf18051625cc,right upper lobe pneumonia,NL,0.017283751661892235
+16e5a578-1e41-4fa1-ba13-bf18051625cc,basilar pneumonia,NL,0.12292092857772706
+16e5a578-1e41-4fa1-ba13-bf18051625cc,patchy pneumonia,NS,0.04902368093059866
+16e5a578-1e41-4fa1-ba13-bf18051625cc,focal pneumonia,NS,0.07041417609899936
+16e5a578-1e41-4fa1-ba13-bf18051625cc,patchy consolidation in the left lower lobe,NSL,0.14976549337455045
+16e5a578-1e41-4fa1-ba13-bf18051625cc,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.006858601164364439
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,pneumonia,N,0.043086660175232806
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,findings suggesting pneumonia,N,0.03845221746503073
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,evidence of pneumonia,N,0.018217821782163787
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,left lower lobe pneumonia,NL,0.3071995118971861
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,right upper lobe pneumonia,NL,0.024221177595391424
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,basilar pneumonia,NL,0.12388529463182034
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,patchy pneumonia,NS,0.1032440782697363
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,focal pneumonia,NS,0.05420698704276348
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,patchy consolidation in the left lower lobe,NSL,0.24395200309633833
+17af8e70-3af0-4a47-a5ba-f16938c87c7e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.021860095389489777
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,pneumonia,N,0.019638786603507558
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,findings suggesting pneumonia,N,0.0
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,evidence of pneumonia,N,0.06307129798891578
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,left lower lobe pneumonia,NL,0.0
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,right upper lobe pneumonia,NL,0.0
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,basilar pneumonia,NL,0.00972391040109442
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,patchy pneumonia,NS,0.003970994475131265
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,focal pneumonia,NS,0.017675883794158777
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,patchy consolidation in the left lower lobe,NSL,0.0036244390748988186
+1f393b78-0251-4f0c-8ca7-39fc54f8ddc2,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,pneumonia,N,0.0
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,findings suggesting pneumonia,N,0.0
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,evidence of pneumonia,N,0.0
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,left lower lobe pneumonia,NL,0.18801431126978888
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,right upper lobe pneumonia,NL,0.0
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,basilar pneumonia,NL,0.0
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,patchy pneumonia,NS,0.0
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,focal pneumonia,NS,0.0
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,patchy consolidation in the left lower lobe,NSL,0.19636101603279343
+1f45c8c0-4475-45e9-85e5-0cf139d0572b,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,pneumonia,N,0.09398890721026633
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,findings suggesting pneumonia,N,0.04530914299353291
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,evidence of pneumonia,N,0.052697374747546544
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,left lower lobe pneumonia,NL,0.02982126058324091
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,right upper lobe pneumonia,NL,0.07481590574370406
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,basilar pneumonia,NL,0.05783446876356098
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,patchy pneumonia,NS,0.0167177486765038
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,focal pneumonia,NS,0.038169748696046384
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,patchy consolidation in the left lower lobe,NSL,0.04152989867273606
+2090a3aa-9ba3-42a2-baa3-f0bfa4f783f8,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03758115729110583
+25651f11-e9b6-423e-a9d0-d20347cb4caf,pneumonia,N,0.12468153694164993
+25651f11-e9b6-423e-a9d0-d20347cb4caf,findings suggesting pneumonia,N,0.018696430253358435
+25651f11-e9b6-423e-a9d0-d20347cb4caf,evidence of pneumonia,N,0.06373248094415356
+25651f11-e9b6-423e-a9d0-d20347cb4caf,left lower lobe pneumonia,NL,0.07137196631992503
+25651f11-e9b6-423e-a9d0-d20347cb4caf,right upper lobe pneumonia,NL,0.04080257903091911
+25651f11-e9b6-423e-a9d0-d20347cb4caf,basilar pneumonia,NL,0.08676647909963486
+25651f11-e9b6-423e-a9d0-d20347cb4caf,patchy pneumonia,NS,0.04020197162777581
+25651f11-e9b6-423e-a9d0-d20347cb4caf,focal pneumonia,NS,0.028480410802572992
+25651f11-e9b6-423e-a9d0-d20347cb4caf,patchy consolidation in the left lower lobe,NSL,0.12637992084975713
+25651f11-e9b6-423e-a9d0-d20347cb4caf,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.031177003384644526
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,pneumonia,N,0.0
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,findings suggesting pneumonia,N,0.0
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,evidence of pneumonia,N,0.0
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,left lower lobe pneumonia,NL,0.03120155038753643
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,right upper lobe pneumonia,NL,0.0
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,basilar pneumonia,NL,0.0
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,patchy pneumonia,NS,0.0
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,focal pneumonia,NS,0.0
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,patchy consolidation in the left lower lobe,NSL,0.005670005669994954
+2cafbcf4-4191-44a1-b81e-b3b6c75ecc7d,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+3239951b-6211-4290-b237-3d9ad17176db,pneumonia,N,0.12073665314798168
+3239951b-6211-4290-b237-3d9ad17176db,findings suggesting pneumonia,N,0.07629932320260739
+3239951b-6211-4290-b237-3d9ad17176db,evidence of pneumonia,N,0.10770140622939432
+3239951b-6211-4290-b237-3d9ad17176db,left lower lobe pneumonia,NL,0.12432468485284844
+3239951b-6211-4290-b237-3d9ad17176db,right upper lobe pneumonia,NL,0.09135051145921834
+3239951b-6211-4290-b237-3d9ad17176db,basilar pneumonia,NL,0.15656946826747403
+3239951b-6211-4290-b237-3d9ad17176db,patchy pneumonia,NS,0.07157841205258941
+3239951b-6211-4290-b237-3d9ad17176db,focal pneumonia,NS,0.07082962774738227
+3239951b-6211-4290-b237-3d9ad17176db,patchy consolidation in the left lower lobe,NSL,0.08888314708346431
+3239951b-6211-4290-b237-3d9ad17176db,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.07623060716333
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,pneumonia,N,0.11021121168793042
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,findings suggesting pneumonia,N,0.0005724917704299807
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,evidence of pneumonia,N,0.10059823677566027
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,left lower lobe pneumonia,NL,0.008365786816661813
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,right upper lobe pneumonia,NL,0.0
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,basilar pneumonia,NL,0.09628351889588163
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,patchy pneumonia,NS,0.08928014957916909
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,focal pneumonia,NS,0.10424893381755766
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,patchy consolidation in the left lower lobe,NSL,0.020434972996613
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,pneumonia,N,0.0
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,findings suggesting pneumonia,N,0.0
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,evidence of pneumonia,N,0.0007935458272704754
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,left lower lobe pneumonia,NL,0.0026500596263380814
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,right upper lobe pneumonia,NL,0.047625640315592375
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,basilar pneumonia,NL,0.0021189246457394796
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,patchy pneumonia,NS,0.0
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,focal pneumonia,NS,0.0
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,patchy consolidation in the left lower lobe,NSL,0.013935414712563399
+3397d218-ad10-49dd-a3e0-9b1ee6d3d91d,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.035157318741401974
+339907f7-5f76-40b4-8476-9c3460417d16,pneumonia,N,0.1120951682213017
+339907f7-5f76-40b4-8476-9c3460417d16,findings suggesting pneumonia,N,0.00941825619559082
+339907f7-5f76-40b4-8476-9c3460417d16,evidence of pneumonia,N,0.17437742113991456
+339907f7-5f76-40b4-8476-9c3460417d16,left lower lobe pneumonia,NL,0.16126737441164427
+339907f7-5f76-40b4-8476-9c3460417d16,right upper lobe pneumonia,NL,0.016428776702741437
+339907f7-5f76-40b4-8476-9c3460417d16,basilar pneumonia,NL,0.15431897301993347
+339907f7-5f76-40b4-8476-9c3460417d16,patchy pneumonia,NS,0.08758712587121383
+339907f7-5f76-40b4-8476-9c3460417d16,focal pneumonia,NS,0.10878311301525222
+339907f7-5f76-40b4-8476-9c3460417d16,patchy consolidation in the left lower lobe,NSL,0.11466540602998494
+339907f7-5f76-40b4-8476-9c3460417d16,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.015601818616886526
+3460d66e-b863-4d11-8d55-14b559ec1588,pneumonia,N,0.08806451612899674
+3460d66e-b863-4d11-8d55-14b559ec1588,findings suggesting pneumonia,N,0.0450003872666544
+3460d66e-b863-4d11-8d55-14b559ec1588,evidence of pneumonia,N,0.09437482256556176
+3460d66e-b863-4d11-8d55-14b559ec1588,left lower lobe pneumonia,NL,0.1192036499377357
+3460d66e-b863-4d11-8d55-14b559ec1588,right upper lobe pneumonia,NL,0.07810939310396815
+3460d66e-b863-4d11-8d55-14b559ec1588,basilar pneumonia,NL,0.10377551437799984
+3460d66e-b863-4d11-8d55-14b559ec1588,patchy pneumonia,NS,0.0538978284642814
+3460d66e-b863-4d11-8d55-14b559ec1588,focal pneumonia,NS,0.054186037426239717
+3460d66e-b863-4d11-8d55-14b559ec1588,patchy consolidation in the left lower lobe,NSL,0.09896554532862305
+3460d66e-b863-4d11-8d55-14b559ec1588,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.07974870953540084
+34aca5a7-7786-4060-afea-cf31d8fc05d6,pneumonia,N,0.091511340669109
+34aca5a7-7786-4060-afea-cf31d8fc05d6,findings suggesting pneumonia,N,0.008611745175338647
+34aca5a7-7786-4060-afea-cf31d8fc05d6,evidence of pneumonia,N,0.0837235228538643
+34aca5a7-7786-4060-afea-cf31d8fc05d6,left lower lobe pneumonia,NL,0.11300664071431989
+34aca5a7-7786-4060-afea-cf31d8fc05d6,right upper lobe pneumonia,NL,0.022079697192700996
+34aca5a7-7786-4060-afea-cf31d8fc05d6,basilar pneumonia,NL,0.08432794199655959
+34aca5a7-7786-4060-afea-cf31d8fc05d6,patchy pneumonia,NS,0.04921748515914817
+34aca5a7-7786-4060-afea-cf31d8fc05d6,focal pneumonia,NS,0.03547081380481948
+34aca5a7-7786-4060-afea-cf31d8fc05d6,patchy consolidation in the left lower lobe,NSL,0.1482400188989508
+34aca5a7-7786-4060-afea-cf31d8fc05d6,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0010297600659035838
+34c83691-e038-4b28-b2c3-7fe99d4783c8,pneumonia,N,0.2171855209651242
+34c83691-e038-4b28-b2c3-7fe99d4783c8,findings suggesting pneumonia,N,0.020454926507561363
+34c83691-e038-4b28-b2c3-7fe99d4783c8,evidence of pneumonia,N,0.2024366150805384
+34c83691-e038-4b28-b2c3-7fe99d4783c8,left lower lobe pneumonia,NL,0.16203143893580982
+34c83691-e038-4b28-b2c3-7fe99d4783c8,right upper lobe pneumonia,NL,0.13756152264647836
+34c83691-e038-4b28-b2c3-7fe99d4783c8,basilar pneumonia,NL,0.24856400437619763
+34c83691-e038-4b28-b2c3-7fe99d4783c8,patchy pneumonia,NS,0.11607579462095594
+34c83691-e038-4b28-b2c3-7fe99d4783c8,focal pneumonia,NS,0.16969891095440762
+34c83691-e038-4b28-b2c3-7fe99d4783c8,patchy consolidation in the left lower lobe,NSL,0.1255702132905156
+34c83691-e038-4b28-b2c3-7fe99d4783c8,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.06559673183538628
+36200569-a271-4fcf-819b-1bd00e626534,pneumonia,N,0.0699490926047993
+36200569-a271-4fcf-819b-1bd00e626534,findings suggesting pneumonia,N,0.021481041774867746
+36200569-a271-4fcf-819b-1bd00e626534,evidence of pneumonia,N,0.04660356559088965
+36200569-a271-4fcf-819b-1bd00e626534,left lower lobe pneumonia,NL,0.10035169051230902
+36200569-a271-4fcf-819b-1bd00e626534,right upper lobe pneumonia,NL,0.06407729468596557
+36200569-a271-4fcf-819b-1bd00e626534,basilar pneumonia,NL,0.07554982616505505
+36200569-a271-4fcf-819b-1bd00e626534,patchy pneumonia,NS,0.044737041815267234
+36200569-a271-4fcf-819b-1bd00e626534,focal pneumonia,NS,0.01751727706123008
+36200569-a271-4fcf-819b-1bd00e626534,patchy consolidation in the left lower lobe,NSL,0.15350454564491453
+36200569-a271-4fcf-819b-1bd00e626534,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02735074626864651
+36fb7333-2dbf-4be3-a424-6739b2090dee,pneumonia,N,0.09781926576710243
+36fb7333-2dbf-4be3-a424-6739b2090dee,findings suggesting pneumonia,N,0.034368070953411406
+36fb7333-2dbf-4be3-a424-6739b2090dee,evidence of pneumonia,N,0.1152283050441348
+36fb7333-2dbf-4be3-a424-6739b2090dee,left lower lobe pneumonia,NL,0.14506627393213462
+36fb7333-2dbf-4be3-a424-6739b2090dee,right upper lobe pneumonia,NL,0.01818843215713482
+36fb7333-2dbf-4be3-a424-6739b2090dee,basilar pneumonia,NL,0.09549902152634403
+36fb7333-2dbf-4be3-a424-6739b2090dee,patchy pneumonia,NS,0.14254224834668744
+36fb7333-2dbf-4be3-a424-6739b2090dee,focal pneumonia,NS,0.06417762907758788
+36fb7333-2dbf-4be3-a424-6739b2090dee,patchy consolidation in the left lower lobe,NSL,0.18401015228410827
+36fb7333-2dbf-4be3-a424-6739b2090dee,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.004738315744127548
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,pneumonia,N,0.006003694581271546
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,findings suggesting pneumonia,N,0.0
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,evidence of pneumonia,N,0.02205192367841406
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,left lower lobe pneumonia,NL,0.00989027970945775
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,right upper lobe pneumonia,NL,0.0
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,basilar pneumonia,NL,0.0
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,patchy pneumonia,NS,0.0
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,focal pneumonia,NS,0.0
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,patchy consolidation in the left lower lobe,NSL,0.0012256779531159404
+37f025d9-05c0-4e27-9a75-2e6a2085fa30,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,pneumonia,N,0.09429832981374763
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,findings suggesting pneumonia,N,0.08208360226277304
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,evidence of pneumonia,N,0.07962422819043159
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,left lower lobe pneumonia,NL,0.14567672950912663
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,right upper lobe pneumonia,NL,0.026804049428963216
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,basilar pneumonia,NL,0.10825523972465363
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,patchy pneumonia,NS,0.1260766495455843
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,focal pneumonia,NS,0.09128154075885772
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,patchy consolidation in the left lower lobe,NSL,0.13400708232199338
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.01546299925178485
+39a52f1d-c8ca-4d68-8b84-817f382febdc,pneumonia,N,0.1321767348975985
+39a52f1d-c8ca-4d68-8b84-817f382febdc,findings suggesting pneumonia,N,0.11282407786042659
+39a52f1d-c8ca-4d68-8b84-817f382febdc,evidence of pneumonia,N,0.08539406509249944
+39a52f1d-c8ca-4d68-8b84-817f382febdc,left lower lobe pneumonia,NL,0.07120925838447835
+39a52f1d-c8ca-4d68-8b84-817f382febdc,right upper lobe pneumonia,NL,0.0865641844679231
+39a52f1d-c8ca-4d68-8b84-817f382febdc,basilar pneumonia,NL,0.11688898009434973
+39a52f1d-c8ca-4d68-8b84-817f382febdc,patchy pneumonia,NS,0.10000404220053356
+39a52f1d-c8ca-4d68-8b84-817f382febdc,focal pneumonia,NS,0.11214189382479375
+39a52f1d-c8ca-4d68-8b84-817f382febdc,patchy consolidation in the left lower lobe,NSL,0.12571357656981644
+39a52f1d-c8ca-4d68-8b84-817f382febdc,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.032516315070559826
+39ced0d0-246c-430d-9bea-efc60bfa487c,pneumonia,N,0.041741587464626584
+39ced0d0-246c-430d-9bea-efc60bfa487c,findings suggesting pneumonia,N,0.0
+39ced0d0-246c-430d-9bea-efc60bfa487c,evidence of pneumonia,N,0.015143929912371535
+39ced0d0-246c-430d-9bea-efc60bfa487c,left lower lobe pneumonia,NL,0.03417059798542118
+39ced0d0-246c-430d-9bea-efc60bfa487c,right upper lobe pneumonia,NL,0.051192327630830495
+39ced0d0-246c-430d-9bea-efc60bfa487c,basilar pneumonia,NL,0.055570015616793894
+39ced0d0-246c-430d-9bea-efc60bfa487c,patchy pneumonia,NS,0.012988634944407407
+39ced0d0-246c-430d-9bea-efc60bfa487c,focal pneumonia,NS,0.009081861159481112
+39ced0d0-246c-430d-9bea-efc60bfa487c,patchy consolidation in the left lower lobe,NSL,0.0446934569808801
+39ced0d0-246c-430d-9bea-efc60bfa487c,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0171808377225769
+3a58fb6d-911e-419c-b00e-b7d29918baf1,pneumonia,N,0.009396206716531415
+3a58fb6d-911e-419c-b00e-b7d29918baf1,findings suggesting pneumonia,N,0.0
+3a58fb6d-911e-419c-b00e-b7d29918baf1,evidence of pneumonia,N,0.01558123249296992
+3a58fb6d-911e-419c-b00e-b7d29918baf1,left lower lobe pneumonia,NL,0.05703352769668908
+3a58fb6d-911e-419c-b00e-b7d29918baf1,right upper lobe pneumonia,NL,0.023826332509664972
+3a58fb6d-911e-419c-b00e-b7d29918baf1,basilar pneumonia,NL,0.044096472282138054
+3a58fb6d-911e-419c-b00e-b7d29918baf1,patchy pneumonia,NS,0.003633217993073299
+3a58fb6d-911e-419c-b00e-b7d29918baf1,focal pneumonia,NS,0.04203341117290815
+3a58fb6d-911e-419c-b00e-b7d29918baf1,patchy consolidation in the left lower lobe,NSL,0.04072479368489285
+3a58fb6d-911e-419c-b00e-b7d29918baf1,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.002246026261226251
+3a5c1a62-279d-4c69-b3e5-394e34518b73,pneumonia,N,0.11223436551301998
+3a5c1a62-279d-4c69-b3e5-394e34518b73,findings suggesting pneumonia,N,0.038051793505967574
+3a5c1a62-279d-4c69-b3e5-394e34518b73,evidence of pneumonia,N,0.09380504552915546
+3a5c1a62-279d-4c69-b3e5-394e34518b73,left lower lobe pneumonia,NL,0.12431719143186512
+3a5c1a62-279d-4c69-b3e5-394e34518b73,right upper lobe pneumonia,NL,0.09025711224851499
+3a5c1a62-279d-4c69-b3e5-394e34518b73,basilar pneumonia,NL,0.1170498201109467
+3a5c1a62-279d-4c69-b3e5-394e34518b73,patchy pneumonia,NS,0.07226059470847804
+3a5c1a62-279d-4c69-b3e5-394e34518b73,focal pneumonia,NS,0.08718359595237628
+3a5c1a62-279d-4c69-b3e5-394e34518b73,patchy consolidation in the left lower lobe,NSL,0.11534948855330147
+3a5c1a62-279d-4c69-b3e5-394e34518b73,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0556996311664201
+3b01037c-d534-4829-9ec8-81119a652602,pneumonia,N,0.0554918482325096
+3b01037c-d534-4829-9ec8-81119a652602,findings suggesting pneumonia,N,0.021767459819478852
+3b01037c-d534-4829-9ec8-81119a652602,evidence of pneumonia,N,0.06973218797368887
+3b01037c-d534-4829-9ec8-81119a652602,left lower lobe pneumonia,NL,0.0501512971873356
+3b01037c-d534-4829-9ec8-81119a652602,right upper lobe pneumonia,NL,0.05344347133755302
+3b01037c-d534-4829-9ec8-81119a652602,basilar pneumonia,NL,0.02463578723197104
+3b01037c-d534-4829-9ec8-81119a652602,patchy pneumonia,NS,0.01627382266813102
+3b01037c-d534-4829-9ec8-81119a652602,focal pneumonia,NS,0.026175472612687264
+3b01037c-d534-4829-9ec8-81119a652602,patchy consolidation in the left lower lobe,NSL,0.08697884575883806
+3b01037c-d534-4829-9ec8-81119a652602,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.024784587084894574
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,pneumonia,N,0.07483125145469981
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,findings suggesting pneumonia,N,0.046573997129241304
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,evidence of pneumonia,N,0.07204488295605647
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,left lower lobe pneumonia,NL,0.12151386359031713
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,right upper lobe pneumonia,NL,0.06169291489440867
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,basilar pneumonia,NL,0.0887692549512383
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,patchy pneumonia,NS,0.0825161164289578
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,focal pneumonia,NS,0.041499079051219225
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,patchy consolidation in the left lower lobe,NSL,0.12100983129015616
+3b4b5587-e5b3-4609-83a7-acf33a0b5803,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.06153020957049096
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,pneumonia,N,0.11860822760469139
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,findings suggesting pneumonia,N,0.07091589473034113
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,evidence of pneumonia,N,0.10802919708022339
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,left lower lobe pneumonia,NL,0.07058751379855845
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,right upper lobe pneumonia,NL,0.07085020242910633
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,basilar pneumonia,NL,0.09194970913861765
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,patchy pneumonia,NS,0.11028429688983636
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,focal pneumonia,NS,0.154639857133306
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,patchy consolidation in the left lower lobe,NSL,0.039416493003846725
+3ccd18df-0b1a-4a0b-ad46-00b602382ba6,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04189794091313524
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,pneumonia,N,0.0933179723501906
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,findings suggesting pneumonia,N,0.00019517526739004014
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,evidence of pneumonia,N,0.10249128694974291
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,left lower lobe pneumonia,NL,0.1308089500860008
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,right upper lobe pneumonia,NL,0.019739722211159414
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,basilar pneumonia,NL,0.12204414083021455
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,patchy pneumonia,NS,0.018240343347632235
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,focal pneumonia,NS,0.11018197573652072
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,patchy consolidation in the left lower lobe,NSL,0.09800308536163095
+3cf1aff4-8d32-498b-a7fe-d2a6a5292d3c,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0004294861783537289
+3d070009-c877-4ed4-ac80-53781cb30fef,pneumonia,N,0.11660989781603556
+3d070009-c877-4ed4-ac80-53781cb30fef,findings suggesting pneumonia,N,0.0386038710364371
+3d070009-c877-4ed4-ac80-53781cb30fef,evidence of pneumonia,N,0.09057616504987544
+3d070009-c877-4ed4-ac80-53781cb30fef,left lower lobe pneumonia,NL,0.11763357685142026
+3d070009-c877-4ed4-ac80-53781cb30fef,right upper lobe pneumonia,NL,0.07355935934832035
+3d070009-c877-4ed4-ac80-53781cb30fef,basilar pneumonia,NL,0.11132951599575212
+3d070009-c877-4ed4-ac80-53781cb30fef,patchy pneumonia,NS,0.12803978833527224
+3d070009-c877-4ed4-ac80-53781cb30fef,focal pneumonia,NS,0.09204154186375949
+3d070009-c877-4ed4-ac80-53781cb30fef,patchy consolidation in the left lower lobe,NSL,0.11987943160610884
+3d070009-c877-4ed4-ac80-53781cb30fef,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.05068814134502662
+3ecaa81f-9128-4e65-951a-091280adb30d,pneumonia,N,0.043504432527063853
+3ecaa81f-9128-4e65-951a-091280adb30d,findings suggesting pneumonia,N,0.00020980854969829016
+3ecaa81f-9128-4e65-951a-091280adb30d,evidence of pneumonia,N,0.07844135278810177
+3ecaa81f-9128-4e65-951a-091280adb30d,left lower lobe pneumonia,NL,0.12501474926246312
+3ecaa81f-9128-4e65-951a-091280adb30d,right upper lobe pneumonia,NL,0.04832325453543247
+3ecaa81f-9128-4e65-951a-091280adb30d,basilar pneumonia,NL,0.025821722524059485
+3ecaa81f-9128-4e65-951a-091280adb30d,patchy pneumonia,NS,0.0
+3ecaa81f-9128-4e65-951a-091280adb30d,focal pneumonia,NS,0.013715379299338835
+3ecaa81f-9128-4e65-951a-091280adb30d,patchy consolidation in the left lower lobe,NSL,0.14873493975894653
+3ecaa81f-9128-4e65-951a-091280adb30d,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.039692492230500136
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,pneumonia,N,0.03520589730551906
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,findings suggesting pneumonia,N,0.0022765027994817717
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,evidence of pneumonia,N,0.03127374018736941
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,left lower lobe pneumonia,NL,0.098597248448814
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,right upper lobe pneumonia,NL,0.040030645470190876
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,basilar pneumonia,NL,0.06903793148702649
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,patchy pneumonia,NS,0.0007371913011421936
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,focal pneumonia,NS,0.003387742531565514
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,patchy consolidation in the left lower lobe,NSL,0.11636513157886762
+3ee66e0c-e360-4e76-ba81-b65f8600ae32,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.007608090554829214
+3f2b878e-9e3b-410b-a739-b43d81b98692,pneumonia,N,0.05958640028033697
+3f2b878e-9e3b-410b-a739-b43d81b98692,findings suggesting pneumonia,N,0.0
+3f2b878e-9e3b-410b-a739-b43d81b98692,evidence of pneumonia,N,0.011826397411567748
+3f2b878e-9e3b-410b-a739-b43d81b98692,left lower lobe pneumonia,NL,0.10867970660133414
+3f2b878e-9e3b-410b-a739-b43d81b98692,right upper lobe pneumonia,NL,0.04517690446001477
+3f2b878e-9e3b-410b-a739-b43d81b98692,basilar pneumonia,NL,0.07401705352904545
+3f2b878e-9e3b-410b-a739-b43d81b98692,patchy pneumonia,NS,0.006660006659999267
+3f2b878e-9e3b-410b-a739-b43d81b98692,focal pneumonia,NS,0.014997202014532739
+3f2b878e-9e3b-410b-a739-b43d81b98692,patchy consolidation in the left lower lobe,NSL,0.09081068077929899
+3f2b878e-9e3b-410b-a739-b43d81b98692,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.012165178571414994
+3f30761d-5615-4039-a155-0fd26f461742,pneumonia,N,0.03127007924605775
+3f30761d-5615-4039-a155-0fd26f461742,findings suggesting pneumonia,N,0.006585136406390106
+3f30761d-5615-4039-a155-0fd26f461742,evidence of pneumonia,N,0.004590027122882756
+3f30761d-5615-4039-a155-0fd26f461742,left lower lobe pneumonia,NL,0.11574556830017871
+3f30761d-5615-4039-a155-0fd26f461742,right upper lobe pneumonia,NL,0.04469516164022055
+3f30761d-5615-4039-a155-0fd26f461742,basilar pneumonia,NL,0.039732239257136974
+3f30761d-5615-4039-a155-0fd26f461742,patchy pneumonia,NS,0.03548387096770378
+3f30761d-5615-4039-a155-0fd26f461742,focal pneumonia,NS,0.0019769014670669265
+3f30761d-5615-4039-a155-0fd26f461742,patchy consolidation in the left lower lobe,NSL,0.07983852881803112
+3f30761d-5615-4039-a155-0fd26f461742,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.021750663129950394
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,pneumonia,N,0.02036385415885276
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,findings suggesting pneumonia,N,0.0
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,evidence of pneumonia,N,0.06568144499173846
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,left lower lobe pneumonia,NL,0.05675738543843005
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,right upper lobe pneumonia,NL,0.007838497374837064
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,basilar pneumonia,NL,0.03242178622829148
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,patchy pneumonia,NS,0.013459250446152989
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,focal pneumonia,NS,0.020134730538907082
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,patchy consolidation in the left lower lobe,NSL,0.11393543114007851
+3f37ab54-2eae-4feb-9831-4fbfe65a0229,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.004866180048658212
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,pneumonia,N,0.0399256287307565
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,findings suggesting pneumonia,N,0.0007533666070244341
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,evidence of pneumonia,N,0.005107348907589986
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,left lower lobe pneumonia,NL,0.11230898053159691
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,right upper lobe pneumonia,NL,0.04968391939939778
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,basilar pneumonia,NL,0.05510325655276498
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,patchy pneumonia,NS,0.01026713565927344
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,focal pneumonia,NS,0.006249408199975145
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,patchy consolidation in the left lower lobe,NSL,0.11839612713100568
+4007ffd5-5e8e-403d-8755-72ecaa2fce43,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.012963492517383506
+40c31d96-78f1-4d21-984b-db5c143a43e4,pneumonia,N,0.0043296737281516475
+40c31d96-78f1-4d21-984b-db5c143a43e4,findings suggesting pneumonia,N,0.0004621072088717466
+40c31d96-78f1-4d21-984b-db5c143a43e4,evidence of pneumonia,N,0.015002344116244723
+40c31d96-78f1-4d21-984b-db5c143a43e4,left lower lobe pneumonia,NL,0.0826804467409857
+40c31d96-78f1-4d21-984b-db5c143a43e4,right upper lobe pneumonia,NL,0.0010789149198503717
+40c31d96-78f1-4d21-984b-db5c143a43e4,basilar pneumonia,NL,0.030461684911898365
+40c31d96-78f1-4d21-984b-db5c143a43e4,patchy pneumonia,NS,0.012944479101664155
+40c31d96-78f1-4d21-984b-db5c143a43e4,focal pneumonia,NS,0.0
+40c31d96-78f1-4d21-984b-db5c143a43e4,patchy consolidation in the left lower lobe,NSL,0.07550919026316359
+40c31d96-78f1-4d21-984b-db5c143a43e4,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.004484998453441873
+44c3f553-5e5d-4a75-852b-2f8b8315270e,pneumonia,N,0.09094514210174445
+44c3f553-5e5d-4a75-852b-2f8b8315270e,findings suggesting pneumonia,N,0.06844172096833882
+44c3f553-5e5d-4a75-852b-2f8b8315270e,evidence of pneumonia,N,0.053574468085083586
+44c3f553-5e5d-4a75-852b-2f8b8315270e,left lower lobe pneumonia,NL,0.10064458768610773
+44c3f553-5e5d-4a75-852b-2f8b8315270e,right upper lobe pneumonia,NL,0.09089707437429904
+44c3f553-5e5d-4a75-852b-2f8b8315270e,basilar pneumonia,NL,0.10079139249506455
+44c3f553-5e5d-4a75-852b-2f8b8315270e,patchy pneumonia,NS,0.06216216216213549
+44c3f553-5e5d-4a75-852b-2f8b8315270e,focal pneumonia,NS,0.04556587837835913
+44c3f553-5e5d-4a75-852b-2f8b8315270e,patchy consolidation in the left lower lobe,NSL,0.13709010746755898
+44c3f553-5e5d-4a75-852b-2f8b8315270e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.08845122433723636
+4672156e-25e5-4bf4-8891-9e0e4a742c49,pneumonia,N,0.03910914736085556
+4672156e-25e5-4bf4-8891-9e0e4a742c49,findings suggesting pneumonia,N,0.010099251262400546
+4672156e-25e5-4bf4-8891-9e0e4a742c49,evidence of pneumonia,N,0.06512026439802612
+4672156e-25e5-4bf4-8891-9e0e4a742c49,left lower lobe pneumonia,NL,0.0766518188566712
+4672156e-25e5-4bf4-8891-9e0e4a742c49,right upper lobe pneumonia,NL,0.02915089877008683
+4672156e-25e5-4bf4-8891-9e0e4a742c49,basilar pneumonia,NL,0.026665093504792244
+4672156e-25e5-4bf4-8891-9e0e4a742c49,patchy pneumonia,NS,0.02612028301885252
+4672156e-25e5-4bf4-8891-9e0e4a742c49,focal pneumonia,NS,0.01286229775345544
+4672156e-25e5-4bf4-8891-9e0e4a742c49,patchy consolidation in the left lower lobe,NSL,0.09659735349710359
+4672156e-25e5-4bf4-8891-9e0e4a742c49,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.010979435343318822
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,pneumonia,N,0.0559370707953203
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,findings suggesting pneumonia,N,0.03665113998526805
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,evidence of pneumonia,N,0.01903843836605673
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,left lower lobe pneumonia,NL,0.0784238714613119
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,right upper lobe pneumonia,NL,0.03014799926912105
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,basilar pneumonia,NL,0.046658415841555285
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,patchy pneumonia,NS,0.03417915010698002
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,focal pneumonia,NS,0.015185162955395723
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,patchy consolidation in the left lower lobe,NSL,0.14168072899079198
+47b6aa0b-bd34-42a0-a0ad-469a1c6e3e1e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02552598071907747
+4c645f41-0960-4544-9ec5-706d70db8c54,pneumonia,N,0.14541023558074984
+4c645f41-0960-4544-9ec5-706d70db8c54,findings suggesting pneumonia,N,0.0
+4c645f41-0960-4544-9ec5-706d70db8c54,evidence of pneumonia,N,0.13477840970053934
+4c645f41-0960-4544-9ec5-706d70db8c54,left lower lobe pneumonia,NL,0.09104978075827132
+4c645f41-0960-4544-9ec5-706d70db8c54,right upper lobe pneumonia,NL,0.004464285714283594
+4c645f41-0960-4544-9ec5-706d70db8c54,basilar pneumonia,NL,0.1351438385572482
+4c645f41-0960-4544-9ec5-706d70db8c54,patchy pneumonia,NS,0.0
+4c645f41-0960-4544-9ec5-706d70db8c54,focal pneumonia,NS,0.16941280548481177
+4c645f41-0960-4544-9ec5-706d70db8c54,patchy consolidation in the left lower lobe,NSL,0.038240636198498726
+4c645f41-0960-4544-9ec5-706d70db8c54,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.00033107884406170785
+5003f421-e6d3-4c2c-b713-eba27a9078c2,pneumonia,N,0.1104614835311477
+5003f421-e6d3-4c2c-b713-eba27a9078c2,findings suggesting pneumonia,N,0.0488133878514316
+5003f421-e6d3-4c2c-b713-eba27a9078c2,evidence of pneumonia,N,0.11950506186721281
+5003f421-e6d3-4c2c-b713-eba27a9078c2,left lower lobe pneumonia,NL,0.12476831969615985
+5003f421-e6d3-4c2c-b713-eba27a9078c2,right upper lobe pneumonia,NL,0.040610623170204675
+5003f421-e6d3-4c2c-b713-eba27a9078c2,basilar pneumonia,NL,0.12997865479806986
+5003f421-e6d3-4c2c-b713-eba27a9078c2,patchy pneumonia,NS,0.06886330440756556
+5003f421-e6d3-4c2c-b713-eba27a9078c2,focal pneumonia,NS,0.11920291484858117
+5003f421-e6d3-4c2c-b713-eba27a9078c2,patchy consolidation in the left lower lobe,NSL,0.09942114798281144
+5003f421-e6d3-4c2c-b713-eba27a9078c2,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02050609030881331
+52816546-4463-4a7f-a120-7d492a86a524,pneumonia,N,0.04578887392515716
+52816546-4463-4a7f-a120-7d492a86a524,findings suggesting pneumonia,N,0.016206965975421574
+52816546-4463-4a7f-a120-7d492a86a524,evidence of pneumonia,N,0.00829005193766651
+52816546-4463-4a7f-a120-7d492a86a524,left lower lobe pneumonia,NL,0.028737389177592235
+52816546-4463-4a7f-a120-7d492a86a524,right upper lobe pneumonia,NL,0.025284321689657507
+52816546-4463-4a7f-a120-7d492a86a524,basilar pneumonia,NL,0.06375131717590753
+52816546-4463-4a7f-a120-7d492a86a524,patchy pneumonia,NS,0.022899989867237916
+52816546-4463-4a7f-a120-7d492a86a524,focal pneumonia,NS,0.017538554581173732
+52816546-4463-4a7f-a120-7d492a86a524,patchy consolidation in the left lower lobe,NSL,0.10003269042159743
+52816546-4463-4a7f-a120-7d492a86a524,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.010814058275747657
+53e69b04-f8ec-467c-911d-a039065ec631,pneumonia,N,0.035170842824569316
+53e69b04-f8ec-467c-911d-a039065ec631,findings suggesting pneumonia,N,0.0
+53e69b04-f8ec-467c-911d-a039065ec631,evidence of pneumonia,N,0.12351661392392847
+53e69b04-f8ec-467c-911d-a039065ec631,left lower lobe pneumonia,NL,0.1060163551400837
+53e69b04-f8ec-467c-911d-a039065ec631,right upper lobe pneumonia,NL,0.07891737891730397
+53e69b04-f8ec-467c-911d-a039065ec631,basilar pneumonia,NL,0.11447910535597951
+53e69b04-f8ec-467c-911d-a039065ec631,patchy pneumonia,NS,0.0
+53e69b04-f8ec-467c-911d-a039065ec631,focal pneumonia,NS,0.035076530612212935
+53e69b04-f8ec-467c-911d-a039065ec631,patchy consolidation in the left lower lobe,NSL,0.022960561858434213
+53e69b04-f8ec-467c-911d-a039065ec631,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.020846437236031225
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,pneumonia,N,0.06939381665988506
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,findings suggesting pneumonia,N,0.009687699171442665
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,evidence of pneumonia,N,0.14437755839145466
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,left lower lobe pneumonia,NL,0.14586748963248825
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,right upper lobe pneumonia,NL,0.034658422954659006
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,basilar pneumonia,NL,0.11615782057298442
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,patchy pneumonia,NS,0.01864711934155579
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,focal pneumonia,NS,0.04705882352939103
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,patchy consolidation in the left lower lobe,NSL,0.1349763576442972
+55211b4b-62e6-4d9f-8b0b-72525ed68e6f,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.009001740902717931
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,pneumonia,N,0.11163775716003263
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,findings suggesting pneumonia,N,0.03931736752777737
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,evidence of pneumonia,N,0.09117006533350705
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,left lower lobe pneumonia,NL,0.10307215050525059
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,right upper lobe pneumonia,NL,0.047017477203602755
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,basilar pneumonia,NL,0.11141359144977675
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,patchy pneumonia,NS,0.05081029551949398
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,focal pneumonia,NS,0.04851136687905592
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,patchy consolidation in the left lower lobe,NSL,0.10495188452274964
+564eac4e-bec9-4cd6-94cb-cc6ba78983b9,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0022731405710108444
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,pneumonia,N,0.034297171802412096
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,findings suggesting pneumonia,N,0.0042008196721268435
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,evidence of pneumonia,N,0.03135851836258933
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,left lower lobe pneumonia,NL,0.05750971083291161
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,right upper lobe pneumonia,NL,0.015332021133310543
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,basilar pneumonia,NL,0.02029981261709317
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,patchy pneumonia,NS,0.0
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,focal pneumonia,NS,0.002557283142386909
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,patchy consolidation in the left lower lobe,NSL,0.08023806899583352
+56511fc0-4881-4ba9-bb78-d5b3a600cf6f,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.024352006688937756
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,pneumonia,N,0.15295055821359413
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,findings suggesting pneumonia,N,0.057567112866609926
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,evidence of pneumonia,N,0.12724154062051515
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,left lower lobe pneumonia,NL,0.127681148116272
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,right upper lobe pneumonia,NL,0.0517203753545852
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,basilar pneumonia,NL,0.14283455853280938
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,patchy pneumonia,NS,0.15359451049217776
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,focal pneumonia,NS,0.1294430122645657
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,patchy consolidation in the left lower lobe,NSL,0.13271701660910942
+58e3c190-8ab1-465c-bf3e-22a2deb0b9f2,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03168260311115193
+594df72e-4237-41a1-8712-73f91c596cb4,pneumonia,N,0.032678319400681055
+594df72e-4237-41a1-8712-73f91c596cb4,findings suggesting pneumonia,N,0.004329004328999758
+594df72e-4237-41a1-8712-73f91c596cb4,evidence of pneumonia,N,0.042182535334674934
+594df72e-4237-41a1-8712-73f91c596cb4,left lower lobe pneumonia,NL,0.012776831345812631
+594df72e-4237-41a1-8712-73f91c596cb4,right upper lobe pneumonia,NL,0.027546721399991845
+594df72e-4237-41a1-8712-73f91c596cb4,basilar pneumonia,NL,0.004647232784110005
+594df72e-4237-41a1-8712-73f91c596cb4,patchy pneumonia,NS,0.0029523407844760097
+594df72e-4237-41a1-8712-73f91c596cb4,focal pneumonia,NS,0.014721570300816382
+594df72e-4237-41a1-8712-73f91c596cb4,patchy consolidation in the left lower lobe,NSL,0.03593988237852762
+594df72e-4237-41a1-8712-73f91c596cb4,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04642464246419535
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,pneumonia,N,0.11963670529276561
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,findings suggesting pneumonia,N,0.02616849256086391
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,evidence of pneumonia,N,0.07019907199517528
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,left lower lobe pneumonia,NL,0.10209114730509064
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,right upper lobe pneumonia,NL,0.09449943871818833
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,basilar pneumonia,NL,0.17876573061483828
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,patchy pneumonia,NS,0.007184110438086498
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,focal pneumonia,NS,0.02411076629265977
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,patchy consolidation in the left lower lobe,NSL,0.14884044775312041
+5973a2ae-a2f9-404e-930d-0d7c96f756ef,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.06525625744931204
+59cdf0f8-72cf-414c-8c16-1140498012c0,pneumonia,N,0.011589821113616037
+59cdf0f8-72cf-414c-8c16-1140498012c0,findings suggesting pneumonia,N,0.017357151906730827
+59cdf0f8-72cf-414c-8c16-1140498012c0,evidence of pneumonia,N,0.004001000250057513
+59cdf0f8-72cf-414c-8c16-1140498012c0,left lower lobe pneumonia,NL,0.01890623017381182
+59cdf0f8-72cf-414c-8c16-1140498012c0,right upper lobe pneumonia,NL,0.011462400806132433
+59cdf0f8-72cf-414c-8c16-1140498012c0,basilar pneumonia,NL,0.01581277672357266
+59cdf0f8-72cf-414c-8c16-1140498012c0,patchy pneumonia,NS,0.015941295546538534
+59cdf0f8-72cf-414c-8c16-1140498012c0,focal pneumonia,NS,0.0021215524772218624
+59cdf0f8-72cf-414c-8c16-1140498012c0,patchy consolidation in the left lower lobe,NSL,0.05283859971148179
+59cdf0f8-72cf-414c-8c16-1140498012c0,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.004252126063026198
+59fbc2d1-41a6-4a64-ade7-9b951273184e,pneumonia,N,0.154400773762284
+59fbc2d1-41a6-4a64-ade7-9b951273184e,findings suggesting pneumonia,N,0.14824208500949076
+59fbc2d1-41a6-4a64-ade7-9b951273184e,evidence of pneumonia,N,0.13592317009851537
+59fbc2d1-41a6-4a64-ade7-9b951273184e,left lower lobe pneumonia,NL,0.17590685176876317
+59fbc2d1-41a6-4a64-ade7-9b951273184e,right upper lobe pneumonia,NL,0.07341999836475069
+59fbc2d1-41a6-4a64-ade7-9b951273184e,basilar pneumonia,NL,0.19332848572969155
+59fbc2d1-41a6-4a64-ade7-9b951273184e,patchy pneumonia,NS,0.16001060257981972
+59fbc2d1-41a6-4a64-ade7-9b951273184e,focal pneumonia,NS,0.1309328968902309
+59fbc2d1-41a6-4a64-ade7-9b951273184e,patchy consolidation in the left lower lobe,NSL,0.26398382593601233
+59fbc2d1-41a6-4a64-ade7-9b951273184e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02554288392436686
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,pneumonia,N,0.1003391746748158
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,findings suggesting pneumonia,N,0.042442093988428915
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,evidence of pneumonia,N,0.09553960883622409
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,left lower lobe pneumonia,NL,0.005293737895409563
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,right upper lobe pneumonia,NL,0.009464540386348419
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,basilar pneumonia,NL,0.04118748328424554
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,patchy pneumonia,NS,0.07929026892143154
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,focal pneumonia,NS,0.10065026858905761
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,patchy consolidation in the left lower lobe,NSL,0.011562946602557408
+5b1b89b6-59e7-4275-b68a-5c0c4704d668,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.005293737895409563
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,pneumonia,N,0.07670086074750813
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,findings suggesting pneumonia,N,0.0377883850437335
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,evidence of pneumonia,N,0.06907451852715034
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,left lower lobe pneumonia,NL,0.10947087054242788
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,right upper lobe pneumonia,NL,0.04761085297995318
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,basilar pneumonia,NL,0.1099428710343321
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,patchy pneumonia,NS,0.02641488225705254
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,focal pneumonia,NS,0.032507914970583154
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,patchy consolidation in the left lower lobe,NSL,0.09326548937438296
+5e3c7f02-5622-4d7d-83a3-6555eb5839d3,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03355970571588367
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,pneumonia,N,0.1362365441072723
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,findings suggesting pneumonia,N,0.03469127943982515
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,evidence of pneumonia,N,0.12827097938493212
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,left lower lobe pneumonia,NL,0.11610821202958245
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,right upper lobe pneumonia,NL,0.10106346948445365
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,basilar pneumonia,NL,0.13838504096915863
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,patchy pneumonia,NS,0.0460102960102664
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,focal pneumonia,NS,0.1122895853290596
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,patchy consolidation in the left lower lobe,NSL,0.09328759752482291
+5ed67fd4-8c5e-45ef-9d0c-1f8fef1e2fc2,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02938382623011248
+5f1863c0-7804-419a-878d-b9719f354b22,pneumonia,N,0.0
+5f1863c0-7804-419a-878d-b9719f354b22,findings suggesting pneumonia,N,0.0
+5f1863c0-7804-419a-878d-b9719f354b22,evidence of pneumonia,N,0.0165539337842354
+5f1863c0-7804-419a-878d-b9719f354b22,left lower lobe pneumonia,NL,0.019821428571393178
+5f1863c0-7804-419a-878d-b9719f354b22,right upper lobe pneumonia,NL,0.0
+5f1863c0-7804-419a-878d-b9719f354b22,basilar pneumonia,NL,0.008832361773522642
+5f1863c0-7804-419a-878d-b9719f354b22,patchy pneumonia,NS,0.00035032404974540143
+5f1863c0-7804-419a-878d-b9719f354b22,focal pneumonia,NS,0.01348713398400446
+5f1863c0-7804-419a-878d-b9719f354b22,patchy consolidation in the left lower lobe,NSL,0.03553943789658107
+5f1863c0-7804-419a-878d-b9719f354b22,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+5f47b009-71fc-40d5-8c16-278331ecb652,pneumonia,N,0.12615352348986675
+5f47b009-71fc-40d5-8c16-278331ecb652,findings suggesting pneumonia,N,0.03743418828187343
+5f47b009-71fc-40d5-8c16-278331ecb652,evidence of pneumonia,N,0.12115675732102042
+5f47b009-71fc-40d5-8c16-278331ecb652,left lower lobe pneumonia,NL,0.16437167949682077
+5f47b009-71fc-40d5-8c16-278331ecb652,right upper lobe pneumonia,NL,0.10546090895048357
+5f47b009-71fc-40d5-8c16-278331ecb652,basilar pneumonia,NL,0.16279573385297882
+5f47b009-71fc-40d5-8c16-278331ecb652,patchy pneumonia,NS,0.1017183893305454
+5f47b009-71fc-40d5-8c16-278331ecb652,focal pneumonia,NS,0.08732850706217418
+5f47b009-71fc-40d5-8c16-278331ecb652,patchy consolidation in the left lower lobe,NSL,0.1337626689188483
+5f47b009-71fc-40d5-8c16-278331ecb652,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0885915564339929
+647b7bbc-5cfb-4776-b157-838a4264d318,pneumonia,N,0.12374155728288042
+647b7bbc-5cfb-4776-b157-838a4264d318,findings suggesting pneumonia,N,0.015664593411638256
+647b7bbc-5cfb-4776-b157-838a4264d318,evidence of pneumonia,N,0.08169774288508133
+647b7bbc-5cfb-4776-b157-838a4264d318,left lower lobe pneumonia,NL,0.07602196461247586
+647b7bbc-5cfb-4776-b157-838a4264d318,right upper lobe pneumonia,NL,0.16887592788948982
+647b7bbc-5cfb-4776-b157-838a4264d318,basilar pneumonia,NL,0.06202577381661805
+647b7bbc-5cfb-4776-b157-838a4264d318,patchy pneumonia,NS,0.012167125803475473
+647b7bbc-5cfb-4776-b157-838a4264d318,focal pneumonia,NS,0.0436738075511378
+647b7bbc-5cfb-4776-b157-838a4264d318,patchy consolidation in the left lower lobe,NSL,0.055542255207019935
+647b7bbc-5cfb-4776-b157-838a4264d318,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.15237846314669057
+6735932c-c8ca-45d5-be56-1ff682a3182e,pneumonia,N,0.01963329547295208
+6735932c-c8ca-45d5-be56-1ff682a3182e,findings suggesting pneumonia,N,0.0015938795027070547
+6735932c-c8ca-45d5-be56-1ff682a3182e,evidence of pneumonia,N,0.06346251480781272
+6735932c-c8ca-45d5-be56-1ff682a3182e,left lower lobe pneumonia,NL,0.07363745087976484
+6735932c-c8ca-45d5-be56-1ff682a3182e,right upper lobe pneumonia,NL,0.00015915963711577406
+6735932c-c8ca-45d5-be56-1ff682a3182e,basilar pneumonia,NL,0.04715880686544383
+6735932c-c8ca-45d5-be56-1ff682a3182e,patchy pneumonia,NS,0.00996464159432664
+6735932c-c8ca-45d5-be56-1ff682a3182e,focal pneumonia,NS,0.00447570332480103
+6735932c-c8ca-45d5-be56-1ff682a3182e,patchy consolidation in the left lower lobe,NSL,0.05809058764091919
+6735932c-c8ca-45d5-be56-1ff682a3182e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+6dad7d7d-5e28-408b-9315-a74c48d88097,pneumonia,N,0.01060917180011874
+6dad7d7d-5e28-408b-9315-a74c48d88097,findings suggesting pneumonia,N,0.0
+6dad7d7d-5e28-408b-9315-a74c48d88097,evidence of pneumonia,N,0.006818956699613333
+6dad7d7d-5e28-408b-9315-a74c48d88097,left lower lobe pneumonia,NL,0.017924853498762626
+6dad7d7d-5e28-408b-9315-a74c48d88097,right upper lobe pneumonia,NL,0.028919860627127317
+6dad7d7d-5e28-408b-9315-a74c48d88097,basilar pneumonia,NL,0.032878628891163206
+6dad7d7d-5e28-408b-9315-a74c48d88097,patchy pneumonia,NS,0.008538251366105639
+6dad7d7d-5e28-408b-9315-a74c48d88097,focal pneumonia,NS,0.005105513955062788
+6dad7d7d-5e28-408b-9315-a74c48d88097,patchy consolidation in the left lower lobe,NSL,0.024635669673794873
+6dad7d7d-5e28-408b-9315-a74c48d88097,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.025169241451093265
+6e2aacb3-74b4-4909-afd1-5e9765df303a,pneumonia,N,0.15538105046333972
+6e2aacb3-74b4-4909-afd1-5e9765df303a,findings suggesting pneumonia,N,0.1263098450146663
+6e2aacb3-74b4-4909-afd1-5e9765df303a,evidence of pneumonia,N,0.15345071327582993
+6e2aacb3-74b4-4909-afd1-5e9765df303a,left lower lobe pneumonia,NL,0.22810618500258065
+6e2aacb3-74b4-4909-afd1-5e9765df303a,right upper lobe pneumonia,NL,0.056130854318630186
+6e2aacb3-74b4-4909-afd1-5e9765df303a,basilar pneumonia,NL,0.1987444904499808
+6e2aacb3-74b4-4909-afd1-5e9765df303a,patchy pneumonia,NS,0.21341174879996389
+6e2aacb3-74b4-4909-afd1-5e9765df303a,focal pneumonia,NS,0.14084148976729322
+6e2aacb3-74b4-4909-afd1-5e9765df303a,patchy consolidation in the left lower lobe,NSL,0.1857576958645886
+6e2aacb3-74b4-4909-afd1-5e9765df303a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02191858810132541
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,pneumonia,N,0.1361267605632844
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,findings suggesting pneumonia,N,0.05603194344435685
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,evidence of pneumonia,N,0.03996647972665508
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,left lower lobe pneumonia,NL,0.028431185057672958
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,right upper lobe pneumonia,NL,0.09539652362839801
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,basilar pneumonia,NL,0.15194573366643915
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,patchy pneumonia,NS,0.02204624643647637
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,focal pneumonia,NS,0.04258756624011723
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,patchy consolidation in the left lower lobe,NSL,0.06320021088700198
+6ec7e05c-1bbe-40ae-8d65-ec917da68f16,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0369584779534407
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,pneumonia,N,0.01118648101867049
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,findings suggesting pneumonia,N,0.0071115325352529195
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,evidence of pneumonia,N,0.0012962526514243504
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,left lower lobe pneumonia,NL,0.2526905499037997
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,right upper lobe pneumonia,NL,0.019558435325150517
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,basilar pneumonia,NL,0.03369829683694197
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,patchy pneumonia,NS,0.02744860943164758
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,focal pneumonia,NS,0.02323901264295817
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,patchy consolidation in the left lower lobe,NSL,0.1540133097919951
+6f0d2ff9-c0dc-48c3-a944-1f18dc185e1f,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.021888153938638737
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,pneumonia,N,0.15995309293452947
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,findings suggesting pneumonia,N,0.01890193654716785
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,evidence of pneumonia,N,0.1614513004167431
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,left lower lobe pneumonia,NL,0.14405505436031457
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,right upper lobe pneumonia,NL,0.0539129508283768
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,basilar pneumonia,NL,0.18425621071524437
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,patchy pneumonia,NS,0.09033289241617595
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,focal pneumonia,NS,0.12910222019283768
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,patchy consolidation in the left lower lobe,NSL,0.1036541143653536
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02047869596615058
+71212080-ccc5-4e0f-bfc1-95710057baea,pneumonia,N,0.0
+71212080-ccc5-4e0f-bfc1-95710057baea,findings suggesting pneumonia,N,0.00013945056477459287
+71212080-ccc5-4e0f-bfc1-95710057baea,evidence of pneumonia,N,0.0
+71212080-ccc5-4e0f-bfc1-95710057baea,left lower lobe pneumonia,NL,0.2600140548133169
+71212080-ccc5-4e0f-bfc1-95710057baea,right upper lobe pneumonia,NL,0.0
+71212080-ccc5-4e0f-bfc1-95710057baea,basilar pneumonia,NL,0.00013945056477459287
+71212080-ccc5-4e0f-bfc1-95710057baea,patchy pneumonia,NS,0.03506999567032029
+71212080-ccc5-4e0f-bfc1-95710057baea,focal pneumonia,NS,0.0
+71212080-ccc5-4e0f-bfc1-95710057baea,patchy consolidation in the left lower lobe,NSL,0.1671277461347972
+71212080-ccc5-4e0f-bfc1-95710057baea,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,pneumonia,N,0.10013531799720894
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,findings suggesting pneumonia,N,0.02554399243138951
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,evidence of pneumonia,N,0.06710418375712296
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,left lower lobe pneumonia,NL,0.18416021847957745
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,right upper lobe pneumonia,NL,0.07637567232099596
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,basilar pneumonia,NL,0.13995267724113578
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,patchy pneumonia,NS,0.06596738506919121
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,focal pneumonia,NS,0.06614211949834756
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,patchy consolidation in the left lower lobe,NSL,0.1237042156184142
+7302e6f8-50b1-4b00-a299-c5d1dc4c1c76,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.021436984687851244
+73b46983-7780-4d82-874a-d9255dd639cb,pneumonia,N,0.02814018930669207
+73b46983-7780-4d82-874a-d9255dd639cb,findings suggesting pneumonia,N,0.0
+73b46983-7780-4d82-874a-d9255dd639cb,evidence of pneumonia,N,0.04457439896030595
+73b46983-7780-4d82-874a-d9255dd639cb,left lower lobe pneumonia,NL,0.06098204857436512
+73b46983-7780-4d82-874a-d9255dd639cb,right upper lobe pneumonia,NL,0.021476680645543936
+73b46983-7780-4d82-874a-d9255dd639cb,basilar pneumonia,NL,0.022906592008115415
+73b46983-7780-4d82-874a-d9255dd639cb,patchy pneumonia,NS,0.0018696248286153938
+73b46983-7780-4d82-874a-d9255dd639cb,focal pneumonia,NS,0.0027445109780404884
+73b46983-7780-4d82-874a-d9255dd639cb,patchy consolidation in the left lower lobe,NSL,0.06196327123786238
+73b46983-7780-4d82-874a-d9255dd639cb,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.000747011952190305
+76cf9b95-b598-4788-9a10-77061046ef98,pneumonia,N,0.06376619063423486
+76cf9b95-b598-4788-9a10-77061046ef98,findings suggesting pneumonia,N,0.047416612164736076
+76cf9b95-b598-4788-9a10-77061046ef98,evidence of pneumonia,N,0.022669220945046826
+76cf9b95-b598-4788-9a10-77061046ef98,left lower lobe pneumonia,NL,0.07736293306411476
+76cf9b95-b598-4788-9a10-77061046ef98,right upper lobe pneumonia,NL,0.03640187671891862
+76cf9b95-b598-4788-9a10-77061046ef98,basilar pneumonia,NL,0.07645773819513282
+76cf9b95-b598-4788-9a10-77061046ef98,patchy pneumonia,NS,0.04434300619490652
+76cf9b95-b598-4788-9a10-77061046ef98,focal pneumonia,NS,0.012486170380887488
+76cf9b95-b598-4788-9a10-77061046ef98,patchy consolidation in the left lower lobe,NSL,0.08264323136710724
+76cf9b95-b598-4788-9a10-77061046ef98,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.009136735979821776
+7759e7ae-641f-4504-b373-95a8763dc59a,pneumonia,N,0.09052333804794827
+7759e7ae-641f-4504-b373-95a8763dc59a,findings suggesting pneumonia,N,0.12136393018726348
+7759e7ae-641f-4504-b373-95a8763dc59a,evidence of pneumonia,N,0.04629071170077459
+7759e7ae-641f-4504-b373-95a8763dc59a,left lower lobe pneumonia,NL,0.01625659050964227
+7759e7ae-641f-4504-b373-95a8763dc59a,right upper lobe pneumonia,NL,0.14090759618523363
+7759e7ae-641f-4504-b373-95a8763dc59a,basilar pneumonia,NL,0.08540591271690066
+7759e7ae-641f-4504-b373-95a8763dc59a,patchy pneumonia,NS,0.04142278253032955
+7759e7ae-641f-4504-b373-95a8763dc59a,focal pneumonia,NS,0.05232029117371501
+7759e7ae-641f-4504-b373-95a8763dc59a,patchy consolidation in the left lower lobe,NSL,0.01969140337983881
+7759e7ae-641f-4504-b373-95a8763dc59a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.14827072646012202
+775c8468-399e-49a9-9fe4-07e75071abe7,pneumonia,N,0.027434052757767446
+775c8468-399e-49a9-9fe4-07e75071abe7,findings suggesting pneumonia,N,0.0
+775c8468-399e-49a9-9fe4-07e75071abe7,evidence of pneumonia,N,0.06524117354543486
+775c8468-399e-49a9-9fe4-07e75071abe7,left lower lobe pneumonia,NL,0.2231357770923568
+775c8468-399e-49a9-9fe4-07e75071abe7,right upper lobe pneumonia,NL,0.0
+775c8468-399e-49a9-9fe4-07e75071abe7,basilar pneumonia,NL,0.05195442938513852
+775c8468-399e-49a9-9fe4-07e75071abe7,patchy pneumonia,NS,0.0
+775c8468-399e-49a9-9fe4-07e75071abe7,focal pneumonia,NS,0.008853725157757507
+775c8468-399e-49a9-9fe4-07e75071abe7,patchy consolidation in the left lower lobe,NSL,0.08995624300387711
+775c8468-399e-49a9-9fe4-07e75071abe7,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.010376379586821641
+77762e93-073c-405f-bca5-0f1fd339bf4c,pneumonia,N,0.10553380919479197
+77762e93-073c-405f-bca5-0f1fd339bf4c,findings suggesting pneumonia,N,0.05200116856554776
+77762e93-073c-405f-bca5-0f1fd339bf4c,evidence of pneumonia,N,0.1130515416118437
+77762e93-073c-405f-bca5-0f1fd339bf4c,left lower lobe pneumonia,NL,0.17010560519888698
+77762e93-073c-405f-bca5-0f1fd339bf4c,right upper lobe pneumonia,NL,0.07045184304394288
+77762e93-073c-405f-bca5-0f1fd339bf4c,basilar pneumonia,NL,0.11710873274382107
+77762e93-073c-405f-bca5-0f1fd339bf4c,patchy pneumonia,NS,0.04840235825020132
+77762e93-073c-405f-bca5-0f1fd339bf4c,focal pneumonia,NS,0.052078007450111694
+77762e93-073c-405f-bca5-0f1fd339bf4c,patchy consolidation in the left lower lobe,NSL,0.17200976403566148
+77762e93-073c-405f-bca5-0f1fd339bf4c,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.042257597684484616
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,pneumonia,N,0.004969630038643531
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,findings suggesting pneumonia,N,0.0
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,evidence of pneumonia,N,0.011298388590458792
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,left lower lobe pneumonia,NL,0.08462455303916444
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,right upper lobe pneumonia,NL,0.015624999999970936
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,basilar pneumonia,NL,0.0007331378299106797
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,patchy pneumonia,NS,0.0
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,focal pneumonia,NS,0.0
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,patchy consolidation in the left lower lobe,NSL,0.05364724044760007
+79bb5ea3-ca6c-4d75-a379-a6ee6c6da659,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03920822230673923
+7a477b7b-f2d2-40ac-a20d-661887491d6b,pneumonia,N,0.06294052182507365
+7a477b7b-f2d2-40ac-a20d-661887491d6b,findings suggesting pneumonia,N,0.02602052995938646
+7a477b7b-f2d2-40ac-a20d-661887491d6b,evidence of pneumonia,N,0.08755060728733863
+7a477b7b-f2d2-40ac-a20d-661887491d6b,left lower lobe pneumonia,NL,0.06359811927732789
+7a477b7b-f2d2-40ac-a20d-661887491d6b,right upper lobe pneumonia,NL,0.048420539090073884
+7a477b7b-f2d2-40ac-a20d-661887491d6b,basilar pneumonia,NL,0.09322141676193155
+7a477b7b-f2d2-40ac-a20d-661887491d6b,patchy pneumonia,NS,0.00163132137030805
+7a477b7b-f2d2-40ac-a20d-661887491d6b,focal pneumonia,NS,0.039168278529933306
+7a477b7b-f2d2-40ac-a20d-661887491d6b,patchy consolidation in the left lower lobe,NSL,0.017037387600547755
+7a477b7b-f2d2-40ac-a20d-661887491d6b,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.016674550614928244
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,pneumonia,N,0.029334336216586016
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,findings suggesting pneumonia,N,0.028174305033773887
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,evidence of pneumonia,N,0.13946711074085558
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,left lower lobe pneumonia,NL,0.18194904275200527
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,right upper lobe pneumonia,NL,0.020124223602459475
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,basilar pneumonia,NL,0.06511869243732635
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,patchy pneumonia,NS,0.011829944547120358
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,focal pneumonia,NS,0.04825737265409389
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,patchy consolidation in the left lower lobe,NSL,0.06153846153838198
+7bb1c647-d8d1-4640-b495-f41c4d2a34ca,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0093423478795214
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,pneumonia,N,0.002850627137964936
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,findings suggesting pneumonia,N,0.0
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,evidence of pneumonia,N,0.008215513947252168
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,left lower lobe pneumonia,NL,0.051614188919785545
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,right upper lobe pneumonia,NL,0.0
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,basilar pneumonia,NL,0.0015183146707126243
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,patchy pneumonia,NS,0.0
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,focal pneumonia,NS,0.006484836925412007
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,patchy consolidation in the left lower lobe,NSL,0.04619349722433348
+7c142fbc-8cd2-4b09-a687-c0253a2a3b06,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+7e4e7293-a984-462e-8d9f-c7a30863dae2,pneumonia,N,0.08200650573524909
+7e4e7293-a984-462e-8d9f-c7a30863dae2,findings suggesting pneumonia,N,0.08731182795691414
+7e4e7293-a984-462e-8d9f-c7a30863dae2,evidence of pneumonia,N,0.07748700025566661
+7e4e7293-a984-462e-8d9f-c7a30863dae2,left lower lobe pneumonia,NL,0.11967401895640031
+7e4e7293-a984-462e-8d9f-c7a30863dae2,right upper lobe pneumonia,NL,0.1301859799712713
+7e4e7293-a984-462e-8d9f-c7a30863dae2,basilar pneumonia,NL,0.11700247437246641
+7e4e7293-a984-462e-8d9f-c7a30863dae2,patchy pneumonia,NS,0.0530700658168349
+7e4e7293-a984-462e-8d9f-c7a30863dae2,focal pneumonia,NS,0.062363422423884374
+7e4e7293-a984-462e-8d9f-c7a30863dae2,patchy consolidation in the left lower lobe,NSL,0.07969590843078525
+7e4e7293-a984-462e-8d9f-c7a30863dae2,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.09116022099439644
+8182a93c-4137-4fcb-b983-9814e7a09926,pneumonia,N,0.004370115135722019
+8182a93c-4137-4fcb-b983-9814e7a09926,findings suggesting pneumonia,N,0.000921273031825024
+8182a93c-4137-4fcb-b983-9814e7a09926,evidence of pneumonia,N,0.010311020960099466
+8182a93c-4137-4fcb-b983-9814e7a09926,left lower lobe pneumonia,NL,0.15268132716034655
+8182a93c-4137-4fcb-b983-9814e7a09926,right upper lobe pneumonia,NL,0.005130361648439756
+8182a93c-4137-4fcb-b983-9814e7a09926,basilar pneumonia,NL,0.0056378323796654
+8182a93c-4137-4fcb-b983-9814e7a09926,patchy pneumonia,NS,0.000921273031825024
+8182a93c-4137-4fcb-b983-9814e7a09926,focal pneumonia,NS,0.0
+8182a93c-4137-4fcb-b983-9814e7a09926,patchy consolidation in the left lower lobe,NSL,0.17086313314375343
+8182a93c-4137-4fcb-b983-9814e7a09926,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.012710787221411142
+81a51c71-28ab-4a62-bb1b-458117d8234c,pneumonia,N,0.014325248250029036
+81a51c71-28ab-4a62-bb1b-458117d8234c,findings suggesting pneumonia,N,0.0038666022232931633
+81a51c71-28ab-4a62-bb1b-458117d8234c,evidence of pneumonia,N,0.014490394008454501
+81a51c71-28ab-4a62-bb1b-458117d8234c,left lower lobe pneumonia,NL,0.08638423988834869
+81a51c71-28ab-4a62-bb1b-458117d8234c,right upper lobe pneumonia,NL,0.007518796992475124
+81a51c71-28ab-4a62-bb1b-458117d8234c,basilar pneumonia,NL,0.013582757218370408
+81a51c71-28ab-4a62-bb1b-458117d8234c,patchy pneumonia,NS,0.005811138014523155
+81a51c71-28ab-4a62-bb1b-458117d8234c,focal pneumonia,NS,0.0016879672052072276
+81a51c71-28ab-4a62-bb1b-458117d8234c,patchy consolidation in the left lower lobe,NSL,0.1116859946475364
+81a51c71-28ab-4a62-bb1b-458117d8234c,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0036240637835196713
+84309ddd-319f-4e6d-b312-2bc70537b074,pneumonia,N,0.030819903540723653
+84309ddd-319f-4e6d-b312-2bc70537b074,findings suggesting pneumonia,N,0.0951012246937077
+84309ddd-319f-4e6d-b312-2bc70537b074,evidence of pneumonia,N,0.06515133098326832
+84309ddd-319f-4e6d-b312-2bc70537b074,left lower lobe pneumonia,NL,0.16189339697671454
+84309ddd-319f-4e6d-b312-2bc70537b074,right upper lobe pneumonia,NL,0.04371129109094365
+84309ddd-319f-4e6d-b312-2bc70537b074,basilar pneumonia,NL,0.01541135573578747
+84309ddd-319f-4e6d-b312-2bc70537b074,patchy pneumonia,NS,0.08735575133380401
+84309ddd-319f-4e6d-b312-2bc70537b074,focal pneumonia,NS,0.044333214157973616
+84309ddd-319f-4e6d-b312-2bc70537b074,patchy consolidation in the left lower lobe,NSL,0.1320242862677535
+84309ddd-319f-4e6d-b312-2bc70537b074,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.019546247818476383
+852156be-0aab-4dc7-95d6-eda950096d0f,pneumonia,N,0.05173080642037156
+852156be-0aab-4dc7-95d6-eda950096d0f,findings suggesting pneumonia,N,0.006384159881563301
+852156be-0aab-4dc7-95d6-eda950096d0f,evidence of pneumonia,N,0.06909770001959004
+852156be-0aab-4dc7-95d6-eda950096d0f,left lower lobe pneumonia,NL,0.1135339885338723
+852156be-0aab-4dc7-95d6-eda950096d0f,right upper lobe pneumonia,NL,0.029044465468279046
+852156be-0aab-4dc7-95d6-eda950096d0f,basilar pneumonia,NL,0.07004426955231673
+852156be-0aab-4dc7-95d6-eda950096d0f,patchy pneumonia,NS,0.031288518061978486
+852156be-0aab-4dc7-95d6-eda950096d0f,focal pneumonia,NS,0.060239789453104355
+852156be-0aab-4dc7-95d6-eda950096d0f,patchy consolidation in the left lower lobe,NSL,0.16033710262410886
+852156be-0aab-4dc7-95d6-eda950096d0f,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.006011838697737687
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,pneumonia,N,0.11579375986149754
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,findings suggesting pneumonia,N,0.04122732022416584
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,evidence of pneumonia,N,0.12380171220581135
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,left lower lobe pneumonia,NL,0.07219015944435479
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,right upper lobe pneumonia,NL,0.0776188369463316
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,basilar pneumonia,NL,0.09653861544613018
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,patchy pneumonia,NS,0.06733531330635993
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,focal pneumonia,NS,0.13679734494910972
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,patchy consolidation in the left lower lobe,NSL,0.11448906964915379
+8768a800-28e8-4ae4-83ba-2f4326b2d3ac,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04440209623628184
+8782c8e0-8592-47e0-95df-ee8224d6dec8,pneumonia,N,0.11349564926367407
+8782c8e0-8592-47e0-95df-ee8224d6dec8,findings suggesting pneumonia,N,0.09887705391788502
+8782c8e0-8592-47e0-95df-ee8224d6dec8,evidence of pneumonia,N,0.12644942869228673
+8782c8e0-8592-47e0-95df-ee8224d6dec8,left lower lobe pneumonia,NL,0.1422134489120962
+8782c8e0-8592-47e0-95df-ee8224d6dec8,right upper lobe pneumonia,NL,0.020079705702015605
+8782c8e0-8592-47e0-95df-ee8224d6dec8,basilar pneumonia,NL,0.1487699611566039
+8782c8e0-8592-47e0-95df-ee8224d6dec8,patchy pneumonia,NS,0.1331687172718578
+8782c8e0-8592-47e0-95df-ee8224d6dec8,focal pneumonia,NS,0.10710423425667286
+8782c8e0-8592-47e0-95df-ee8224d6dec8,patchy consolidation in the left lower lobe,NSL,0.12937033265439182
+8782c8e0-8592-47e0-95df-ee8224d6dec8,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.013207978075512633
+8c984367-b094-429a-b8cf-a9aba99e8ff9,pneumonia,N,0.033117882425341263
+8c984367-b094-429a-b8cf-a9aba99e8ff9,findings suggesting pneumonia,N,0.008169640175402072
+8c984367-b094-429a-b8cf-a9aba99e8ff9,evidence of pneumonia,N,0.06497874230594265
+8c984367-b094-429a-b8cf-a9aba99e8ff9,left lower lobe pneumonia,NL,0.07762938230378988
+8c984367-b094-429a-b8cf-a9aba99e8ff9,right upper lobe pneumonia,NL,0.054473485800418144
+8c984367-b094-429a-b8cf-a9aba99e8ff9,basilar pneumonia,NL,0.054738562091468865
+8c984367-b094-429a-b8cf-a9aba99e8ff9,patchy pneumonia,NS,0.004729406130265367
+8c984367-b094-429a-b8cf-a9aba99e8ff9,focal pneumonia,NS,0.013956017399701573
+8c984367-b094-429a-b8cf-a9aba99e8ff9,patchy consolidation in the left lower lobe,NSL,0.04138744105234463
+8c984367-b094-429a-b8cf-a9aba99e8ff9,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.07280746612115008
+8d48694a-f998-4043-bc98-63a3c18527f2,pneumonia,N,0.11717800965578035
+8d48694a-f998-4043-bc98-63a3c18527f2,findings suggesting pneumonia,N,0.02325116969073855
+8d48694a-f998-4043-bc98-63a3c18527f2,evidence of pneumonia,N,0.10220952029743947
+8d48694a-f998-4043-bc98-63a3c18527f2,left lower lobe pneumonia,NL,0.09752141982861152
+8d48694a-f998-4043-bc98-63a3c18527f2,right upper lobe pneumonia,NL,0.08026383158145943
+8d48694a-f998-4043-bc98-63a3c18527f2,basilar pneumonia,NL,0.12080872472731452
+8d48694a-f998-4043-bc98-63a3c18527f2,patchy pneumonia,NS,0.07424823289802497
+8d48694a-f998-4043-bc98-63a3c18527f2,focal pneumonia,NS,0.10587981376989304
+8d48694a-f998-4043-bc98-63a3c18527f2,patchy consolidation in the left lower lobe,NSL,0.08816480082519094
+8d48694a-f998-4043-bc98-63a3c18527f2,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04914148652995316
+91c00a0a-b2fc-446c-930a-0567100f54e7,pneumonia,N,0.06305519149552785
+91c00a0a-b2fc-446c-930a-0567100f54e7,findings suggesting pneumonia,N,0.017232570021823015
+91c00a0a-b2fc-446c-930a-0567100f54e7,evidence of pneumonia,N,0.07090464547673794
+91c00a0a-b2fc-446c-930a-0567100f54e7,left lower lobe pneumonia,NL,0.1681245999572391
+91c00a0a-b2fc-446c-930a-0567100f54e7,right upper lobe pneumonia,NL,0.06725146198827131
+91c00a0a-b2fc-446c-930a-0567100f54e7,basilar pneumonia,NL,0.06595278656604237
+91c00a0a-b2fc-446c-930a-0567100f54e7,patchy pneumonia,NS,0.046745053054178975
+91c00a0a-b2fc-446c-930a-0567100f54e7,focal pneumonia,NS,0.02836213373402124
+91c00a0a-b2fc-446c-930a-0567100f54e7,patchy consolidation in the left lower lobe,NSL,0.1940461261653159
+91c00a0a-b2fc-446c-930a-0567100f54e7,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.058994197292041105
+93351a14-30a7-494c-a02b-7f2d72c724c8,pneumonia,N,0.10456062291430454
+93351a14-30a7-494c-a02b-7f2d72c724c8,findings suggesting pneumonia,N,0.035910604662345656
+93351a14-30a7-494c-a02b-7f2d72c724c8,evidence of pneumonia,N,0.06663912414787579
+93351a14-30a7-494c-a02b-7f2d72c724c8,left lower lobe pneumonia,NL,0.1272266852950894
+93351a14-30a7-494c-a02b-7f2d72c724c8,right upper lobe pneumonia,NL,0.08237957489620493
+93351a14-30a7-494c-a02b-7f2d72c724c8,basilar pneumonia,NL,0.08854034910191055
+93351a14-30a7-494c-a02b-7f2d72c724c8,patchy pneumonia,NS,0.06523084540163171
+93351a14-30a7-494c-a02b-7f2d72c724c8,focal pneumonia,NS,0.02930271498623398
+93351a14-30a7-494c-a02b-7f2d72c724c8,patchy consolidation in the left lower lobe,NSL,0.13936451897610797
+93351a14-30a7-494c-a02b-7f2d72c724c8,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0630816108045528
+93a95c68-c487-4e09-89e2-6e3849e44886,pneumonia,N,0.12808871687992848
+93a95c68-c487-4e09-89e2-6e3849e44886,findings suggesting pneumonia,N,0.06015247954112041
+93a95c68-c487-4e09-89e2-6e3849e44886,evidence of pneumonia,N,0.1412544236125734
+93a95c68-c487-4e09-89e2-6e3849e44886,left lower lobe pneumonia,NL,0.16925094499716944
+93a95c68-c487-4e09-89e2-6e3849e44886,right upper lobe pneumonia,NL,0.1193412598773212
+93a95c68-c487-4e09-89e2-6e3849e44886,basilar pneumonia,NL,0.07192362093347106
+93a95c68-c487-4e09-89e2-6e3849e44886,patchy pneumonia,NS,0.09263264129174406
+93a95c68-c487-4e09-89e2-6e3849e44886,focal pneumonia,NS,0.10514035727298203
+93a95c68-c487-4e09-89e2-6e3849e44886,patchy consolidation in the left lower lobe,NSL,0.10780587633379052
+93a95c68-c487-4e09-89e2-6e3849e44886,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.06619302194705529
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,pneumonia,N,0.08206686930088503
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,findings suggesting pneumonia,N,0.04603330068558781
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,evidence of pneumonia,N,0.0703478598215213
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,left lower lobe pneumonia,NL,0.08586421777629194
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,right upper lobe pneumonia,NL,0.036114414470790474
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,basilar pneumonia,NL,0.09011886338938786
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,patchy pneumonia,NS,0.06927623292314398
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,focal pneumonia,NS,0.06634887915483563
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,patchy consolidation in the left lower lobe,NSL,0.08277463452919424
+94a7ba94-9251-42c8-84b6-c3cac85a78ec,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03268870867123123
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,pneumonia,N,0.08978521478510267
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,findings suggesting pneumonia,N,0.04753330932655439
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,evidence of pneumonia,N,0.022975032235349926
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,left lower lobe pneumonia,NL,0.14287585123082389
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,right upper lobe pneumonia,NL,0.11512905698937499
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,basilar pneumonia,NL,0.12446849632763243
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,patchy pneumonia,NS,0.029370134465641223
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,focal pneumonia,NS,0.03009915014160753
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,patchy consolidation in the left lower lobe,NSL,0.05284111473030179
+96f34fa9-0e56-4fdb-bfd7-781d8c453bcb,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.08977400424511203
+972128de-cda3-4ede-a5a1-61c05bfe49b2,pneumonia,N,0.01876079980250246
+972128de-cda3-4ede-a5a1-61c05bfe49b2,findings suggesting pneumonia,N,0.0
+972128de-cda3-4ede-a5a1-61c05bfe49b2,evidence of pneumonia,N,0.04050760568111563
+972128de-cda3-4ede-a5a1-61c05bfe49b2,left lower lobe pneumonia,NL,0.0199357442952303
+972128de-cda3-4ede-a5a1-61c05bfe49b2,right upper lobe pneumonia,NL,0.0010510996119008319
+972128de-cda3-4ede-a5a1-61c05bfe49b2,basilar pneumonia,NL,0.008306865379910166
+972128de-cda3-4ede-a5a1-61c05bfe49b2,patchy pneumonia,NS,0.022378199834828753
+972128de-cda3-4ede-a5a1-61c05bfe49b2,focal pneumonia,NS,0.019683742381798975
+972128de-cda3-4ede-a5a1-61c05bfe49b2,patchy consolidation in the left lower lobe,NSL,0.04155800454274286
+972128de-cda3-4ede-a5a1-61c05bfe49b2,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0007274490785639124
+98325e35-8c87-418b-a7c3-81b1180e85ea,pneumonia,N,0.038371098760112896
+98325e35-8c87-418b-a7c3-81b1180e85ea,findings suggesting pneumonia,N,0.019947506561658845
+98325e35-8c87-418b-a7c3-81b1180e85ea,evidence of pneumonia,N,0.033400702052937555
+98325e35-8c87-418b-a7c3-81b1180e85ea,left lower lobe pneumonia,NL,0.05483170466877868
+98325e35-8c87-418b-a7c3-81b1180e85ea,right upper lobe pneumonia,NL,0.02869546802199418
+98325e35-8c87-418b-a7c3-81b1180e85ea,basilar pneumonia,NL,0.05380193079503872
+98325e35-8c87-418b-a7c3-81b1180e85ea,patchy pneumonia,NS,0.08329616413906857
+98325e35-8c87-418b-a7c3-81b1180e85ea,focal pneumonia,NS,0.02587117212246476
+98325e35-8c87-418b-a7c3-81b1180e85ea,patchy consolidation in the left lower lobe,NSL,0.08329616413906857
+98325e35-8c87-418b-a7c3-81b1180e85ea,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02435681147192708
+9c3ec0a7-6816-46e0-b797-8412bacea535,pneumonia,N,0.1654094088600118
+9c3ec0a7-6816-46e0-b797-8412bacea535,findings suggesting pneumonia,N,0.023241811175309195
+9c3ec0a7-6816-46e0-b797-8412bacea535,evidence of pneumonia,N,0.09412825135192618
+9c3ec0a7-6816-46e0-b797-8412bacea535,left lower lobe pneumonia,NL,0.08921933085490422
+9c3ec0a7-6816-46e0-b797-8412bacea535,right upper lobe pneumonia,NL,0.1234959672086163
+9c3ec0a7-6816-46e0-b797-8412bacea535,basilar pneumonia,NL,0.1803028198358379
+9c3ec0a7-6816-46e0-b797-8412bacea535,patchy pneumonia,NS,0.041554302525077774
+9c3ec0a7-6816-46e0-b797-8412bacea535,focal pneumonia,NS,0.08380102040805638
+9c3ec0a7-6816-46e0-b797-8412bacea535,patchy consolidation in the left lower lobe,NSL,0.09047741273089005
+9c3ec0a7-6816-46e0-b797-8412bacea535,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04360108081547089
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,pneumonia,N,0.11875115009500169
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,findings suggesting pneumonia,N,0.05318473176644154
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,evidence of pneumonia,N,0.10266021765410963
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,left lower lobe pneumonia,NL,0.12068329851289131
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,right upper lobe pneumonia,NL,0.11738757505200502
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,basilar pneumonia,NL,0.1771767895177324
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,patchy pneumonia,NS,0.15095292187293263
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,focal pneumonia,NS,0.05721407454636994
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,patchy consolidation in the left lower lobe,NSL,0.13321734807994703
+9e7bd306-471d-4c5c-aa53-a9d24e0779bc,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.07187775492208529
+a2a84bc3-c75b-4df6-840d-e118b61594d4,pneumonia,N,0.05259969156198909
+a2a84bc3-c75b-4df6-840d-e118b61594d4,findings suggesting pneumonia,N,0.008123648256576396
+a2a84bc3-c75b-4df6-840d-e118b61594d4,evidence of pneumonia,N,0.05533160307026598
+a2a84bc3-c75b-4df6-840d-e118b61594d4,left lower lobe pneumonia,NL,0.16367289776522945
+a2a84bc3-c75b-4df6-840d-e118b61594d4,right upper lobe pneumonia,NL,0.04346164346161973
+a2a84bc3-c75b-4df6-840d-e118b61594d4,basilar pneumonia,NL,0.04780963868630527
+a2a84bc3-c75b-4df6-840d-e118b61594d4,patchy pneumonia,NS,0.014222788303341175
+a2a84bc3-c75b-4df6-840d-e118b61594d4,focal pneumonia,NS,0.0549238242437321
+a2a84bc3-c75b-4df6-840d-e118b61594d4,patchy consolidation in the left lower lobe,NSL,0.13830484245628785
+a2a84bc3-c75b-4df6-840d-e118b61594d4,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.014007534355592929
+a37dc7a9-8b22-461b-99d2-c77109da8220,pneumonia,N,0.1324666438589583
+a37dc7a9-8b22-461b-99d2-c77109da8220,findings suggesting pneumonia,N,0.04759794923726337
+a37dc7a9-8b22-461b-99d2-c77109da8220,evidence of pneumonia,N,0.09197070660414859
+a37dc7a9-8b22-461b-99d2-c77109da8220,left lower lobe pneumonia,NL,0.08021146064477208
+a37dc7a9-8b22-461b-99d2-c77109da8220,right upper lobe pneumonia,NL,0.057031549367698914
+a37dc7a9-8b22-461b-99d2-c77109da8220,basilar pneumonia,NL,0.0774689147841433
+a37dc7a9-8b22-461b-99d2-c77109da8220,patchy pneumonia,NS,0.11808417212719172
+a37dc7a9-8b22-461b-99d2-c77109da8220,focal pneumonia,NS,0.07676793962651957
+a37dc7a9-8b22-461b-99d2-c77109da8220,patchy consolidation in the left lower lobe,NSL,0.11229838709669872
+a37dc7a9-8b22-461b-99d2-c77109da8220,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04620733249048912
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,pneumonia,N,0.022560902436070368
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,findings suggesting pneumonia,N,0.007806031933757769
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,evidence of pneumonia,N,0.07819815260017943
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,left lower lobe pneumonia,NL,0.16822045516840112
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,right upper lobe pneumonia,NL,0.01670445054287471
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,basilar pneumonia,NL,0.06499187601541684
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,patchy pneumonia,NS,0.10261387163547799
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,focal pneumonia,NS,0.019502273271094158
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,patchy consolidation in the left lower lobe,NSL,0.1263714474552196
+a3c04f4d-3621-4679-872b-fad6dd79a4f8,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.016338700059610804
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,pneumonia,N,0.004775549188154104
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,findings suggesting pneumonia,N,0.0004755111745123498
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,evidence of pneumonia,N,0.013541722421445409
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,left lower lobe pneumonia,NL,0.08528198074272966
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,right upper lobe pneumonia,NL,0.03390663390661539
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,basilar pneumonia,NL,0.012025012025005598
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,patchy pneumonia,NS,0.0042426813746265155
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,focal pneumonia,NS,0.0
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,patchy consolidation in the left lower lobe,NSL,0.07231440058889387
+a3e9eaec-d502-4e5d-abc9-bb5e28742b83,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.033562540929909644
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,pneumonia,N,0.07444333665666565
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,findings suggesting pneumonia,N,0.015190171527253918
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,evidence of pneumonia,N,0.042945280051597666
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,left lower lobe pneumonia,NL,0.09421669416588643
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,right upper lobe pneumonia,NL,0.07960095170510514
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,basilar pneumonia,NL,0.09343028663224257
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,patchy pneumonia,NS,0.01240850197674388
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,focal pneumonia,NS,0.015708451146710763
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,patchy consolidation in the left lower lobe,NSL,0.10012760527430875
+a41249dd-3195-4d4d-bcaa-7ea2178e2d68,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.034477241820640554
+a5a07f9f-959f-4210-ac86-6cdab44b099b,pneumonia,N,0.037818737465344456
+a5a07f9f-959f-4210-ac86-6cdab44b099b,findings suggesting pneumonia,N,0.0026757704373475957
+a5a07f9f-959f-4210-ac86-6cdab44b099b,evidence of pneumonia,N,0.06455721003128471
+a5a07f9f-959f-4210-ac86-6cdab44b099b,left lower lobe pneumonia,NL,0.20932561762718746
+a5a07f9f-959f-4210-ac86-6cdab44b099b,right upper lobe pneumonia,NL,0.015892306254075075
+a5a07f9f-959f-4210-ac86-6cdab44b099b,basilar pneumonia,NL,0.05015461925004817
+a5a07f9f-959f-4210-ac86-6cdab44b099b,patchy pneumonia,NS,0.07764775882578574
+a5a07f9f-959f-4210-ac86-6cdab44b099b,focal pneumonia,NS,0.00994423791820637
+a5a07f9f-959f-4210-ac86-6cdab44b099b,patchy consolidation in the left lower lobe,NSL,0.17722890261057606
+a5a07f9f-959f-4210-ac86-6cdab44b099b,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0031385581094773942
+a6905106-5479-4725-b81f-532376d24222,pneumonia,N,0.09986198299269851
+a6905106-5479-4725-b81f-532376d24222,findings suggesting pneumonia,N,0.00032393909944917234
+a6905106-5479-4725-b81f-532376d24222,evidence of pneumonia,N,0.09445330497957892
+a6905106-5479-4725-b81f-532376d24222,left lower lobe pneumonia,NL,0.10399070474142914
+a6905106-5479-4725-b81f-532376d24222,right upper lobe pneumonia,NL,0.03632855105292544
+a6905106-5479-4725-b81f-532376d24222,basilar pneumonia,NL,0.12541569860137333
+a6905106-5479-4725-b81f-532376d24222,patchy pneumonia,NS,0.10572016829285394
+a6905106-5479-4725-b81f-532376d24222,focal pneumonia,NS,0.10790205399582567
+a6905106-5479-4725-b81f-532376d24222,patchy consolidation in the left lower lobe,NSL,0.1128429208522398
+a6905106-5479-4725-b81f-532376d24222,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.005945109536604795
+a74060c8-870a-47e1-9bc9-c1226caf9a87,pneumonia,N,0.05924935961681785
+a74060c8-870a-47e1-9bc9-c1226caf9a87,findings suggesting pneumonia,N,0.0
+a74060c8-870a-47e1-9bc9-c1226caf9a87,evidence of pneumonia,N,0.02323830016135208
+a74060c8-870a-47e1-9bc9-c1226caf9a87,left lower lobe pneumonia,NL,0.1109683448194008
+a74060c8-870a-47e1-9bc9-c1226caf9a87,right upper lobe pneumonia,NL,0.07675761349476196
+a74060c8-870a-47e1-9bc9-c1226caf9a87,basilar pneumonia,NL,0.0633944543827556
+a74060c8-870a-47e1-9bc9-c1226caf9a87,patchy pneumonia,NS,0.005603721717058994
+a74060c8-870a-47e1-9bc9-c1226caf9a87,focal pneumonia,NS,0.001052520787284441
+a74060c8-870a-47e1-9bc9-c1226caf9a87,patchy consolidation in the left lower lobe,NSL,0.07627022745266915
+a74060c8-870a-47e1-9bc9-c1226caf9a87,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.05983286908071327
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,pneumonia,N,0.11823754108551177
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,findings suggesting pneumonia,N,0.09046807773379618
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,evidence of pneumonia,N,0.11002028159074984
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,left lower lobe pneumonia,NL,0.11083656900808601
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,right upper lobe pneumonia,NL,0.06227848101264071
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,basilar pneumonia,NL,0.10868416417118529
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,patchy pneumonia,NS,0.0965156794424807
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,focal pneumonia,NS,0.10108755867857216
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,patchy consolidation in the left lower lobe,NSL,0.09565671511878156
+a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.06054819141764196
+a9bf1010-e610-4b41-814d-99a4250d00c3,pneumonia,N,0.14939228257870849
+a9bf1010-e610-4b41-814d-99a4250d00c3,findings suggesting pneumonia,N,0.07146523907301575
+a9bf1010-e610-4b41-814d-99a4250d00c3,evidence of pneumonia,N,0.09688438438434802
+a9bf1010-e610-4b41-814d-99a4250d00c3,left lower lobe pneumonia,NL,0.14113328386763732
+a9bf1010-e610-4b41-814d-99a4250d00c3,right upper lobe pneumonia,NL,0.15288408427359232
+a9bf1010-e610-4b41-814d-99a4250d00c3,basilar pneumonia,NL,0.13984240911213144
+a9bf1010-e610-4b41-814d-99a4250d00c3,patchy pneumonia,NS,0.11658387466560313
+a9bf1010-e610-4b41-814d-99a4250d00c3,focal pneumonia,NS,0.10643695569855871
+a9bf1010-e610-4b41-814d-99a4250d00c3,patchy consolidation in the left lower lobe,NSL,0.10857771539128624
+a9bf1010-e610-4b41-814d-99a4250d00c3,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.12918308988324864
+aaa04d93-39da-47c1-8736-a1a2c85114af,pneumonia,N,0.0
+aaa04d93-39da-47c1-8736-a1a2c85114af,findings suggesting pneumonia,N,0.0
+aaa04d93-39da-47c1-8736-a1a2c85114af,evidence of pneumonia,N,0.0
+aaa04d93-39da-47c1-8736-a1a2c85114af,left lower lobe pneumonia,NL,0.0018767594619926858
+aaa04d93-39da-47c1-8736-a1a2c85114af,right upper lobe pneumonia,NL,0.0
+aaa04d93-39da-47c1-8736-a1a2c85114af,basilar pneumonia,NL,0.0
+aaa04d93-39da-47c1-8736-a1a2c85114af,patchy pneumonia,NS,0.0
+aaa04d93-39da-47c1-8736-a1a2c85114af,focal pneumonia,NS,0.0
+aaa04d93-39da-47c1-8736-a1a2c85114af,patchy consolidation in the left lower lobe,NSL,0.019252187748577166
+aaa04d93-39da-47c1-8736-a1a2c85114af,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+ab6619ee-546c-4245-be8d-6e0eece3581a,pneumonia,N,0.05628282828280554
+ab6619ee-546c-4245-be8d-6e0eece3581a,findings suggesting pneumonia,N,0.013373129699971557
+ab6619ee-546c-4245-be8d-6e0eece3581a,evidence of pneumonia,N,0.094124047878089
+ab6619ee-546c-4245-be8d-6e0eece3581a,left lower lobe pneumonia,NL,0.11798665754356912
+ab6619ee-546c-4245-be8d-6e0eece3581a,right upper lobe pneumonia,NL,0.05816400874279196
+ab6619ee-546c-4245-be8d-6e0eece3581a,basilar pneumonia,NL,0.053770808980590196
+ab6619ee-546c-4245-be8d-6e0eece3581a,patchy pneumonia,NS,0.07841762230835804
+ab6619ee-546c-4245-be8d-6e0eece3581a,focal pneumonia,NS,0.07540106951868555
+ab6619ee-546c-4245-be8d-6e0eece3581a,patchy consolidation in the left lower lobe,NSL,0.09816852894224222
+ab6619ee-546c-4245-be8d-6e0eece3581a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03254472925469705
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,pneumonia,N,0.0336944707408458
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,findings suggesting pneumonia,N,0.00672699334129871
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,evidence of pneumonia,N,0.014486769209588628
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,left lower lobe pneumonia,NL,0.034310973898388185
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,right upper lobe pneumonia,NL,0.02893239800368934
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,basilar pneumonia,NL,0.020314933379470386
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,patchy pneumonia,NS,0.0
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,focal pneumonia,NS,0.0026868006665977323
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,patchy consolidation in the left lower lobe,NSL,0.07211171315317935
+ae3f4d88-7880-40a1-aa43-4481dbc330ea,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.011111873242331054
+afff57ee-fdb2-408a-a01e-7814931892e0,pneumonia,N,0.12651313201934775
+afff57ee-fdb2-408a-a01e-7814931892e0,findings suggesting pneumonia,N,0.008450043032623249
+afff57ee-fdb2-408a-a01e-7814931892e0,evidence of pneumonia,N,0.13694702950640103
+afff57ee-fdb2-408a-a01e-7814931892e0,left lower lobe pneumonia,NL,0.18465073529403278
+afff57ee-fdb2-408a-a01e-7814931892e0,right upper lobe pneumonia,NL,0.05915944291522157
+afff57ee-fdb2-408a-a01e-7814931892e0,basilar pneumonia,NL,0.17799204862213683
+afff57ee-fdb2-408a-a01e-7814931892e0,patchy pneumonia,NS,0.025010934828412656
+afff57ee-fdb2-408a-a01e-7814931892e0,focal pneumonia,NS,0.09210303338413316
+afff57ee-fdb2-408a-a01e-7814931892e0,patchy consolidation in the left lower lobe,NSL,0.15793729224680714
+afff57ee-fdb2-408a-a01e-7814931892e0,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02930841718574137
+b00b6900-8b72-41db-a443-e1fbce442336,pneumonia,N,0.031902985074607024
+b00b6900-8b72-41db-a443-e1fbce442336,findings suggesting pneumonia,N,0.0004220426866029048
+b00b6900-8b72-41db-a443-e1fbce442336,evidence of pneumonia,N,0.030173216613875845
+b00b6900-8b72-41db-a443-e1fbce442336,left lower lobe pneumonia,NL,0.06948114727678409
+b00b6900-8b72-41db-a443-e1fbce442336,right upper lobe pneumonia,NL,0.0537245189559575
+b00b6900-8b72-41db-a443-e1fbce442336,basilar pneumonia,NL,0.08034377238096208
+b00b6900-8b72-41db-a443-e1fbce442336,patchy pneumonia,NS,0.004722979109897231
+b00b6900-8b72-41db-a443-e1fbce442336,focal pneumonia,NS,0.013312977099228511
+b00b6900-8b72-41db-a443-e1fbce442336,patchy consolidation in the left lower lobe,NSL,0.1042859044322479
+b00b6900-8b72-41db-a443-e1fbce442336,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.010597478530963763
+b1a36998-390d-45e5-bd85-21c2c33690f3,pneumonia,N,0.1119057939603295
+b1a36998-390d-45e5-bd85-21c2c33690f3,findings suggesting pneumonia,N,0.022793726741080014
+b1a36998-390d-45e5-bd85-21c2c33690f3,evidence of pneumonia,N,0.11335358796288096
+b1a36998-390d-45e5-bd85-21c2c33690f3,left lower lobe pneumonia,NL,0.1769519002828042
+b1a36998-390d-45e5-bd85-21c2c33690f3,right upper lobe pneumonia,NL,0.14772557792681004
+b1a36998-390d-45e5-bd85-21c2c33690f3,basilar pneumonia,NL,0.12944888823649411
+b1a36998-390d-45e5-bd85-21c2c33690f3,patchy pneumonia,NS,0.024768626406535207
+b1a36998-390d-45e5-bd85-21c2c33690f3,focal pneumonia,NS,0.049076409242690286
+b1a36998-390d-45e5-bd85-21c2c33690f3,patchy consolidation in the left lower lobe,NSL,0.07554157931511142
+b1a36998-390d-45e5-bd85-21c2c33690f3,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.1259784914769727
+b267ae3f-b52c-403c-be9d-c8ac9070020e,pneumonia,N,0.05408317173017228
+b267ae3f-b52c-403c-be9d-c8ac9070020e,findings suggesting pneumonia,N,0.002870028700284061
+b267ae3f-b52c-403c-be9d-c8ac9070020e,evidence of pneumonia,N,0.035453487141458934
+b267ae3f-b52c-403c-be9d-c8ac9070020e,left lower lobe pneumonia,NL,0.10778985507234172
+b267ae3f-b52c-403c-be9d-c8ac9070020e,right upper lobe pneumonia,NL,0.022789044532696225
+b267ae3f-b52c-403c-be9d-c8ac9070020e,basilar pneumonia,NL,0.049110015011742315
+b267ae3f-b52c-403c-be9d-c8ac9070020e,patchy pneumonia,NS,0.04787404948050993
+b267ae3f-b52c-403c-be9d-c8ac9070020e,focal pneumonia,NS,0.006377288623733411
+b267ae3f-b52c-403c-be9d-c8ac9070020e,patchy consolidation in the left lower lobe,NSL,0.19012285609999982
+b267ae3f-b52c-403c-be9d-c8ac9070020e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0009207161125310273
+b2753475-d0b2-4dde-8a7b-311e1db27397,pneumonia,N,0.07410471575455134
+b2753475-d0b2-4dde-8a7b-311e1db27397,findings suggesting pneumonia,N,0.0049762247041855836
+b2753475-d0b2-4dde-8a7b-311e1db27397,evidence of pneumonia,N,0.019634242118232205
+b2753475-d0b2-4dde-8a7b-311e1db27397,left lower lobe pneumonia,NL,0.03708775533488863
+b2753475-d0b2-4dde-8a7b-311e1db27397,right upper lobe pneumonia,NL,0.043278613247568265
+b2753475-d0b2-4dde-8a7b-311e1db27397,basilar pneumonia,NL,0.10626902008508061
+b2753475-d0b2-4dde-8a7b-311e1db27397,patchy pneumonia,NS,0.0
+b2753475-d0b2-4dde-8a7b-311e1db27397,focal pneumonia,NS,0.01180138053884235
+b2753475-d0b2-4dde-8a7b-311e1db27397,patchy consolidation in the left lower lobe,NSL,0.034019797474076664
+b2753475-d0b2-4dde-8a7b-311e1db27397,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02886901392502109
+b35dfbda-395c-4c9d-befb-331f6ac3da84,pneumonia,N,0.07910439437874217
+b35dfbda-395c-4c9d-befb-331f6ac3da84,findings suggesting pneumonia,N,0.06678978995532643
+b35dfbda-395c-4c9d-befb-331f6ac3da84,evidence of pneumonia,N,0.08272717099371008
+b35dfbda-395c-4c9d-befb-331f6ac3da84,left lower lobe pneumonia,NL,0.07667269439419205
+b35dfbda-395c-4c9d-befb-331f6ac3da84,right upper lobe pneumonia,NL,0.02807884390605991
+b35dfbda-395c-4c9d-befb-331f6ac3da84,basilar pneumonia,NL,0.06962025316453772
+b35dfbda-395c-4c9d-befb-331f6ac3da84,patchy pneumonia,NS,0.10681805182173917
+b35dfbda-395c-4c9d-befb-331f6ac3da84,focal pneumonia,NS,0.07213895891623345
+b35dfbda-395c-4c9d-befb-331f6ac3da84,patchy consolidation in the left lower lobe,NSL,0.08109391586119866
+b35dfbda-395c-4c9d-befb-331f6ac3da84,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.020784427505071933
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,pneumonia,N,0.023665096975008515
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,findings suggesting pneumonia,N,0.010916686371872422
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,evidence of pneumonia,N,0.02130116260550195
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,left lower lobe pneumonia,NL,0.07164939839569198
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,right upper lobe pneumonia,NL,0.011195647888985218
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,basilar pneumonia,NL,0.05338589790971484
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,patchy pneumonia,NS,0.010001181241875023
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,focal pneumonia,NS,0.010558247646058165
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,patchy consolidation in the left lower lobe,NSL,0.09516693706767348
+b3e8a708-d8e1-434e-92ca-5d5e79aca86e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.005724367771023044
+b4299b1e-7fb8-479d-8754-0a8fa6463400,pneumonia,N,0.09373817631476423
+b4299b1e-7fb8-479d-8754-0a8fa6463400,findings suggesting pneumonia,N,0.0136165736492962
+b4299b1e-7fb8-479d-8754-0a8fa6463400,evidence of pneumonia,N,0.08763403775001956
+b4299b1e-7fb8-479d-8754-0a8fa6463400,left lower lobe pneumonia,NL,0.12480544747077665
+b4299b1e-7fb8-479d-8754-0a8fa6463400,right upper lobe pneumonia,NL,0.11204077707247802
+b4299b1e-7fb8-479d-8754-0a8fa6463400,basilar pneumonia,NL,0.13081888121002386
+b4299b1e-7fb8-479d-8754-0a8fa6463400,patchy pneumonia,NS,0.013972114232260394
+b4299b1e-7fb8-479d-8754-0a8fa6463400,focal pneumonia,NS,0.023576276187659024
+b4299b1e-7fb8-479d-8754-0a8fa6463400,patchy consolidation in the left lower lobe,NSL,0.1035151900747245
+b4299b1e-7fb8-479d-8754-0a8fa6463400,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.06407975460120734
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,pneumonia,N,0.04432610815268719
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,findings suggesting pneumonia,N,0.007525325615047929
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,evidence of pneumonia,N,0.020521841102308515
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,left lower lobe pneumonia,NL,0.04256673280669291
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,right upper lobe pneumonia,NL,0.029577048210577647
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,basilar pneumonia,NL,0.06963702707890546
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,patchy pneumonia,NS,0.0
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,focal pneumonia,NS,0.002989375112550697
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,patchy consolidation in the left lower lobe,NSL,0.08666640652433501
+b468a5c0-3e86-46d9-84f1-8a0dea47c854,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.027260319451094743
+b4f66208-8c31-433c-9f82-72104bc35112,pneumonia,N,0.002237494006708906
+b4f66208-8c31-433c-9f82-72104bc35112,findings suggesting pneumonia,N,0.0
+b4f66208-8c31-433c-9f82-72104bc35112,evidence of pneumonia,N,0.022167889160518064
+b4f66208-8c31-433c-9f82-72104bc35112,left lower lobe pneumonia,NL,0.0028786182632290444
+b4f66208-8c31-433c-9f82-72104bc35112,right upper lobe pneumonia,NL,0.0
+b4f66208-8c31-433c-9f82-72104bc35112,basilar pneumonia,NL,0.0019172391755840914
+b4f66208-8c31-433c-9f82-72104bc35112,patchy pneumonia,NS,0.0023976982097148373
+b4f66208-8c31-433c-9f82-72104bc35112,focal pneumonia,NS,0.0
+b4f66208-8c31-433c-9f82-72104bc35112,patchy consolidation in the left lower lobe,NSL,0.03516011885104794
+b4f66208-8c31-433c-9f82-72104bc35112,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.002077341003512181
+b58b5574-d66b-4b28-8ca3-137768b44c84,pneumonia,N,0.0
+b58b5574-d66b-4b28-8ca3-137768b44c84,findings suggesting pneumonia,N,0.0
+b58b5574-d66b-4b28-8ca3-137768b44c84,evidence of pneumonia,N,0.0046419668185294916
+b58b5574-d66b-4b28-8ca3-137768b44c84,left lower lobe pneumonia,NL,0.007413154038438571
+b58b5574-d66b-4b28-8ca3-137768b44c84,right upper lobe pneumonia,NL,0.004037800687281754
+b58b5574-d66b-4b28-8ca3-137768b44c84,basilar pneumonia,NL,0.0
+b58b5574-d66b-4b28-8ca3-137768b44c84,patchy pneumonia,NS,0.0
+b58b5574-d66b-4b28-8ca3-137768b44c84,focal pneumonia,NS,0.0
+b58b5574-d66b-4b28-8ca3-137768b44c84,patchy consolidation in the left lower lobe,NSL,0.04115812917590988
+b58b5574-d66b-4b28-8ca3-137768b44c84,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.07564185147687895
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,pneumonia,N,0.07613185389157193
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,findings suggesting pneumonia,N,0.010956402647788969
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,evidence of pneumonia,N,0.06620125180543555
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,left lower lobe pneumonia,NL,0.23233166388403603
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,right upper lobe pneumonia,NL,0.05796639859856838
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,basilar pneumonia,NL,0.15559227691758948
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,patchy pneumonia,NS,0.07135945815185343
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,focal pneumonia,NS,0.02888338237569391
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,patchy consolidation in the left lower lobe,NSL,0.2079090909089019
+b7069aa5-9e33-4918-aba2-f76b0abef6a4,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.01026459854013818
+b8a563db-5bfd-4638-9b55-30c3a230485f,pneumonia,N,0.025403681991128864
+b8a563db-5bfd-4638-9b55-30c3a230485f,findings suggesting pneumonia,N,0.00880299504198239
+b8a563db-5bfd-4638-9b55-30c3a230485f,evidence of pneumonia,N,0.05357708971779184
+b8a563db-5bfd-4638-9b55-30c3a230485f,left lower lobe pneumonia,NL,0.20149433598433175
+b8a563db-5bfd-4638-9b55-30c3a230485f,right upper lobe pneumonia,NL,0.029958677685919463
+b8a563db-5bfd-4638-9b55-30c3a230485f,basilar pneumonia,NL,0.06733754416008207
+b8a563db-5bfd-4638-9b55-30c3a230485f,patchy pneumonia,NS,0.06063829787227591
+b8a563db-5bfd-4638-9b55-30c3a230485f,focal pneumonia,NS,0.0015067805123038605
+b8a563db-5bfd-4638-9b55-30c3a230485f,patchy consolidation in the left lower lobe,NSL,0.18127962085286575
+b8a563db-5bfd-4638-9b55-30c3a230485f,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.01279967492887769
+b9c3ed83-82f0-47da-9aed-aaff0034c718,pneumonia,N,0.07591008854912741
+b9c3ed83-82f0-47da-9aed-aaff0034c718,findings suggesting pneumonia,N,0.019250761785259276
+b9c3ed83-82f0-47da-9aed-aaff0034c718,evidence of pneumonia,N,0.02995834088026446
+b9c3ed83-82f0-47da-9aed-aaff0034c718,left lower lobe pneumonia,NL,0.09081143295603651
+b9c3ed83-82f0-47da-9aed-aaff0034c718,right upper lobe pneumonia,NL,0.050702143385051475
+b9c3ed83-82f0-47da-9aed-aaff0034c718,basilar pneumonia,NL,0.08020211998021344
+b9c3ed83-82f0-47da-9aed-aaff0034c718,patchy pneumonia,NS,0.016227035527908988
+b9c3ed83-82f0-47da-9aed-aaff0034c718,focal pneumonia,NS,0.013510141517836412
+b9c3ed83-82f0-47da-9aed-aaff0034c718,patchy consolidation in the left lower lobe,NSL,0.1023573200992159
+b9c3ed83-82f0-47da-9aed-aaff0034c718,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.022733812949632108
+ba185597-bb80-4b69-938e-4bff4b87d366,pneumonia,N,0.04285890478537071
+ba185597-bb80-4b69-938e-4bff4b87d366,findings suggesting pneumonia,N,0.018182912878548868
+ba185597-bb80-4b69-938e-4bff4b87d366,evidence of pneumonia,N,0.019041880084351284
+ba185597-bb80-4b69-938e-4bff4b87d366,left lower lobe pneumonia,NL,0.11249259917103316
+ba185597-bb80-4b69-938e-4bff4b87d366,right upper lobe pneumonia,NL,0.0850818094320917
+ba185597-bb80-4b69-938e-4bff4b87d366,basilar pneumonia,NL,0.0839689763476162
+ba185597-bb80-4b69-938e-4bff4b87d366,patchy pneumonia,NS,0.027649489547868465
+ba185597-bb80-4b69-938e-4bff4b87d366,focal pneumonia,NS,0.00475313409779291
+ba185597-bb80-4b69-938e-4bff4b87d366,patchy consolidation in the left lower lobe,NSL,0.09244186046505656
+ba185597-bb80-4b69-938e-4bff4b87d366,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.025655021834045576
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,pneumonia,N,0.06069173499193224
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,findings suggesting pneumonia,N,0.02113953910359178
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,evidence of pneumonia,N,0.053148685318561664
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,left lower lobe pneumonia,NL,0.052262528047819494
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,right upper lobe pneumonia,NL,0.009507579155072644
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,basilar pneumonia,NL,0.051476083706977316
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,patchy pneumonia,NS,0.031338770273956436
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,focal pneumonia,NS,0.027666179693181456
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,patchy consolidation in the left lower lobe,NSL,0.080549155145852
+ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.003030032973885545
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,pneumonia,N,0.0999999999999723
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,findings suggesting pneumonia,N,0.03963765839353869
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,evidence of pneumonia,N,0.07895880882510625
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,left lower lobe pneumonia,NL,0.11780436312452702
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,right upper lobe pneumonia,NL,0.06364172068354218
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,basilar pneumonia,NL,0.10906298003069151
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,patchy pneumonia,NS,0.07969221566652718
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,focal pneumonia,NS,0.05955493889747064
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,patchy consolidation in the left lower lobe,NSL,0.11805614212908803
+ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.046735377072502644
+ba8d3130-4063-4339-bbfa-474259060f5b,pneumonia,N,0.06493882994140143
+ba8d3130-4063-4339-bbfa-474259060f5b,findings suggesting pneumonia,N,0.0
+ba8d3130-4063-4339-bbfa-474259060f5b,evidence of pneumonia,N,0.12847136888662541
+ba8d3130-4063-4339-bbfa-474259060f5b,left lower lobe pneumonia,NL,0.14130367240406305
+ba8d3130-4063-4339-bbfa-474259060f5b,right upper lobe pneumonia,NL,0.05122481684978753
+ba8d3130-4063-4339-bbfa-474259060f5b,basilar pneumonia,NL,0.10617923391947351
+ba8d3130-4063-4339-bbfa-474259060f5b,patchy pneumonia,NS,0.026204045144694266
+ba8d3130-4063-4339-bbfa-474259060f5b,focal pneumonia,NS,0.041981051795517116
+ba8d3130-4063-4339-bbfa-474259060f5b,patchy consolidation in the left lower lobe,NSL,0.1723367587922561
+ba8d3130-4063-4339-bbfa-474259060f5b,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.007625630897516115
+bb1648ed-992f-482f-b3a7-0a21237c8972,pneumonia,N,0.08543438639118664
+bb1648ed-992f-482f-b3a7-0a21237c8972,findings suggesting pneumonia,N,0.06165044937973583
+bb1648ed-992f-482f-b3a7-0a21237c8972,evidence of pneumonia,N,0.11873825923597468
+bb1648ed-992f-482f-b3a7-0a21237c8972,left lower lobe pneumonia,NL,0.11394279479376981
+bb1648ed-992f-482f-b3a7-0a21237c8972,right upper lobe pneumonia,NL,0.042827958558264385
+bb1648ed-992f-482f-b3a7-0a21237c8972,basilar pneumonia,NL,0.07095759028917206
+bb1648ed-992f-482f-b3a7-0a21237c8972,patchy pneumonia,NS,0.07896127425071414
+bb1648ed-992f-482f-b3a7-0a21237c8972,focal pneumonia,NS,0.06759784881978817
+bb1648ed-992f-482f-b3a7-0a21237c8972,patchy consolidation in the left lower lobe,NSL,0.13113327002205513
+bb1648ed-992f-482f-b3a7-0a21237c8972,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.024294109215978
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,pneumonia,N,0.13671016927245694
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,findings suggesting pneumonia,N,0.024177274138456932
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,evidence of pneumonia,N,0.14688627178299643
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,left lower lobe pneumonia,NL,0.13426741737218623
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,right upper lobe pneumonia,NL,0.09234271523174986
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,basilar pneumonia,NL,0.12883356858713851
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,patchy pneumonia,NS,0.07705178957675507
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,focal pneumonia,NS,0.05252452739887831
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,patchy consolidation in the left lower lobe,NSL,0.13407245068964202
+bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.05353293413171516
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,pneumonia,N,0.12933851180560424
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,findings suggesting pneumonia,N,0.013556883576796394
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,evidence of pneumonia,N,0.05258016319960201
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,left lower lobe pneumonia,NL,0.09257381449442734
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,right upper lobe pneumonia,NL,0.10330080713160866
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,basilar pneumonia,NL,0.1291456047342318
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,patchy pneumonia,NS,0.03790797824113899
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,focal pneumonia,NS,0.012436435993802545
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,patchy consolidation in the left lower lobe,NSL,0.12921521484487442
+bbc0f839-6707-42f6-9e56-c3f555d6b9c0,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04632697360902186
+bca2c151-2431-4595-80c7-75480a196c6e,pneumonia,N,0.0
+bca2c151-2431-4595-80c7-75480a196c6e,findings suggesting pneumonia,N,0.0
+bca2c151-2431-4595-80c7-75480a196c6e,evidence of pneumonia,N,0.024966955500036764
+bca2c151-2431-4595-80c7-75480a196c6e,left lower lobe pneumonia,NL,0.000286656155940538
+bca2c151-2431-4595-80c7-75480a196c6e,right upper lobe pneumonia,NL,0.025569434239492185
+bca2c151-2431-4595-80c7-75480a196c6e,basilar pneumonia,NL,0.004461715601605553
+bca2c151-2431-4595-80c7-75480a196c6e,patchy pneumonia,NS,0.0
+bca2c151-2431-4595-80c7-75480a196c6e,focal pneumonia,NS,0.000860461781154653
+bca2c151-2431-4595-80c7-75480a196c6e,patchy consolidation in the left lower lobe,NSL,0.0
+bca2c151-2431-4595-80c7-75480a196c6e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.002441827061185806
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,pneumonia,N,0.041046857567850016
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,findings suggesting pneumonia,N,0.010559090293754542
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,evidence of pneumonia,N,0.031457258658791704
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,left lower lobe pneumonia,NL,0.08476628723657798
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,right upper lobe pneumonia,NL,0.03612897256786967
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,basilar pneumonia,NL,0.06077112542626905
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,patchy pneumonia,NS,0.043374953410341324
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,focal pneumonia,NS,0.015968788277450453
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,patchy consolidation in the left lower lobe,NSL,0.13934676434669344
+bcee03c8-2ff9-4b01-a6d6-a4ee99565d81,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.023771428571417702
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,pneumonia,N,0.05354330708659008
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,findings suggesting pneumonia,N,0.03881987577638029
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,evidence of pneumonia,N,0.028371909174742686
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,left lower lobe pneumonia,NL,0.04396094342144368
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,right upper lobe pneumonia,NL,0.03826711599856409
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,basilar pneumonia,NL,0.05998189225891354
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,patchy pneumonia,NS,0.012059128630700182
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,focal pneumonia,NS,0.021284947878038432
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,patchy consolidation in the left lower lobe,NSL,0.07536511435653745
+bdbba1b5-1a3f-4ee4-9044-565baba3f976,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.024816176470577374
+be108ff0-e920-4b6e-901d-ce8a800f6191,pneumonia,N,0.07186704596492895
+be108ff0-e920-4b6e-901d-ce8a800f6191,findings suggesting pneumonia,N,0.0011653925041948698
+be108ff0-e920-4b6e-901d-ce8a800f6191,evidence of pneumonia,N,0.10666254444267188
+be108ff0-e920-4b6e-901d-ce8a800f6191,left lower lobe pneumonia,NL,0.1366499073828332
+be108ff0-e920-4b6e-901d-ce8a800f6191,right upper lobe pneumonia,NL,0.07654135338342027
+be108ff0-e920-4b6e-901d-ce8a800f6191,basilar pneumonia,NL,0.14051298390943628
+be108ff0-e920-4b6e-901d-ce8a800f6191,patchy pneumonia,NS,0.014549577211954013
+be108ff0-e920-4b6e-901d-ce8a800f6191,focal pneumonia,NS,0.012779402056015854
+be108ff0-e920-4b6e-901d-ce8a800f6191,patchy consolidation in the left lower lobe,NSL,0.13857816890200997
+be108ff0-e920-4b6e-901d-ce8a800f6191,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.048118686252477616
+be367de2-d888-41df-90bd-82baaa80541f,pneumonia,N,0.0010946158582464975
+be367de2-d888-41df-90bd-82baaa80541f,findings suggesting pneumonia,N,0.0
+be367de2-d888-41df-90bd-82baaa80541f,evidence of pneumonia,N,0.010356970240965022
+be367de2-d888-41df-90bd-82baaa80541f,left lower lobe pneumonia,NL,0.0771439087227993
+be367de2-d888-41df-90bd-82baaa80541f,right upper lobe pneumonia,NL,0.02637300974957819
+be367de2-d888-41df-90bd-82baaa80541f,basilar pneumonia,NL,0.0023975887107806565
+be367de2-d888-41df-90bd-82baaa80541f,patchy pneumonia,NS,0.0
+be367de2-d888-41df-90bd-82baaa80541f,focal pneumonia,NS,0.0016428229173785728
+be367de2-d888-41df-90bd-82baaa80541f,patchy consolidation in the left lower lobe,NSL,0.10671607926175562
+be367de2-d888-41df-90bd-82baaa80541f,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.016251128550582503
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,pneumonia,N,0.1880184331795997
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,findings suggesting pneumonia,N,0.008550829933488767
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,evidence of pneumonia,N,0.08371366802781424
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,left lower lobe pneumonia,NL,0.15597975786294535
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,right upper lobe pneumonia,NL,0.16953985742049932
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,basilar pneumonia,NL,0.2041905778725449
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,patchy pneumonia,NS,0.06901249925948165
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,focal pneumonia,NS,0.09922641164640358
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,patchy consolidation in the left lower lobe,NSL,0.1559057135535768
+bf11da89-d0f0-4c1b-b486-d82bbcb91ed4,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.07846769855968537
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,pneumonia,N,0.13629205440222558
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,findings suggesting pneumonia,N,0.045855843984694576
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,evidence of pneumonia,N,0.11516485575116374
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,left lower lobe pneumonia,NL,0.192159415210438
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,right upper lobe pneumonia,NL,0.0891501235019261
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,basilar pneumonia,NL,0.14547553759554266
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,patchy pneumonia,NS,0.07392206386430004
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,focal pneumonia,NS,0.056623030840889
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,patchy consolidation in the left lower lobe,NSL,0.17208958897358007
+bf1e2342-1f62-4f96-a616-e0a279d9ba42,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.05451727192203077
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,pneumonia,N,0.10011990407661855
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,findings suggesting pneumonia,N,0.00010899182561296021
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,evidence of pneumonia,N,0.09565321232374532
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,left lower lobe pneumonia,NL,0.12136396968941413
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,right upper lobe pneumonia,NL,0.02171492204897359
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,basilar pneumonia,NL,0.15714465884707132
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,patchy pneumonia,NS,0.009350935093499064
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,focal pneumonia,NS,0.08157491453485609
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,patchy consolidation in the left lower lobe,NSL,0.1510475473589875
+bf6071e6-0a92-4896-83bf-f0f24cd1b4d6,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,pneumonia,N,0.038130798823220034
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,findings suggesting pneumonia,N,0.003609713410628298
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,evidence of pneumonia,N,0.08425904041587773
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,left lower lobe pneumonia,NL,0.055446911307885136
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,right upper lobe pneumonia,NL,0.14845412442089317
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,basilar pneumonia,NL,0.06772954730586787
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,patchy pneumonia,NS,0.0014189041693937797
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,focal pneumonia,NS,0.016395258668420964
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,patchy consolidation in the left lower lobe,NSL,0.05157593123203257
+bf999eaa-6bce-46f8-be87-1dc34ca20e97,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.05025183150177397
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,pneumonia,N,0.09563752106343544
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,findings suggesting pneumonia,N,0.06675659909579015
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,evidence of pneumonia,N,0.07672775447115746
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,left lower lobe pneumonia,NL,0.09925987151065137
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,right upper lobe pneumonia,NL,0.04961256995262964
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,basilar pneumonia,NL,0.07942890872866545
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,patchy pneumonia,NS,0.07246536177696926
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,focal pneumonia,NS,0.06307451949276494
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,patchy consolidation in the left lower lobe,NSL,0.10947216745028458
+c2ed72cd-0390-46c3-ac73-601b1a875d5d,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.029376583169142493
+c2ee643f-0568-4816-9fa5-19d50cde5386,pneumonia,N,0.1468847195744488
+c2ee643f-0568-4816-9fa5-19d50cde5386,findings suggesting pneumonia,N,0.05112643678156218
+c2ee643f-0568-4816-9fa5-19d50cde5386,evidence of pneumonia,N,0.13043908227835202
+c2ee643f-0568-4816-9fa5-19d50cde5386,left lower lobe pneumonia,NL,0.14275717284800282
+c2ee643f-0568-4816-9fa5-19d50cde5386,right upper lobe pneumonia,NL,0.19947534102812225
+c2ee643f-0568-4816-9fa5-19d50cde5386,basilar pneumonia,NL,0.21619321204360442
+c2ee643f-0568-4816-9fa5-19d50cde5386,patchy pneumonia,NS,0.03946530872052426
+c2ee643f-0568-4816-9fa5-19d50cde5386,focal pneumonia,NS,0.07707528502772347
+c2ee643f-0568-4816-9fa5-19d50cde5386,patchy consolidation in the left lower lobe,NSL,0.035229125158453875
+c2ee643f-0568-4816-9fa5-19d50cde5386,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.11413255360612656
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,pneumonia,N,0.11308061529154047
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,findings suggesting pneumonia,N,0.020442812099365774
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,evidence of pneumonia,N,0.06763810352324647
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,left lower lobe pneumonia,NL,0.10402609086815713
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,right upper lobe pneumonia,NL,0.10332296856849986
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,basilar pneumonia,NL,0.11810933940770003
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,patchy pneumonia,NS,0.024810355626687725
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,focal pneumonia,NS,0.034312003933400885
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,patchy consolidation in the left lower lobe,NSL,0.10743024742419063
+c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0606475312421001
+c574a647-fb1f-4344-9568-892f4d66f4ed,pneumonia,N,0.14767639339188846
+c574a647-fb1f-4344-9568-892f4d66f4ed,findings suggesting pneumonia,N,0.09276001470040958
+c574a647-fb1f-4344-9568-892f4d66f4ed,evidence of pneumonia,N,0.11823993982691369
+c574a647-fb1f-4344-9568-892f4d66f4ed,left lower lobe pneumonia,NL,0.08194454552064483
+c574a647-fb1f-4344-9568-892f4d66f4ed,right upper lobe pneumonia,NL,0.049484681632041866
+c574a647-fb1f-4344-9568-892f4d66f4ed,basilar pneumonia,NL,0.1821723918573615
+c574a647-fb1f-4344-9568-892f4d66f4ed,patchy pneumonia,NS,0.1923169460259906
+c574a647-fb1f-4344-9568-892f4d66f4ed,focal pneumonia,NS,0.12979709704374967
+c574a647-fb1f-4344-9568-892f4d66f4ed,patchy consolidation in the left lower lobe,NSL,0.10191224429283878
+c574a647-fb1f-4344-9568-892f4d66f4ed,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.010055030912419284
+c69ffd64-16bf-4237-b169-f7bab69978e4,pneumonia,N,0.05773672055423085
+c69ffd64-16bf-4237-b169-f7bab69978e4,findings suggesting pneumonia,N,0.006662545504494358
+c69ffd64-16bf-4237-b169-f7bab69978e4,evidence of pneumonia,N,0.0824224519940307
+c69ffd64-16bf-4237-b169-f7bab69978e4,left lower lobe pneumonia,NL,0.04187104570978754
+c69ffd64-16bf-4237-b169-f7bab69978e4,right upper lobe pneumonia,NL,0.06357039187223253
+c69ffd64-16bf-4237-b169-f7bab69978e4,basilar pneumonia,NL,0.05758406696488845
+c69ffd64-16bf-4237-b169-f7bab69978e4,patchy pneumonia,NS,0.004661365505892061
+c69ffd64-16bf-4237-b169-f7bab69978e4,focal pneumonia,NS,0.011316588462592246
+c69ffd64-16bf-4237-b169-f7bab69978e4,patchy consolidation in the left lower lobe,NSL,0.050308155367600464
+c69ffd64-16bf-4237-b169-f7bab69978e4,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.05294920612109135
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,pneumonia,N,0.08889039333823784
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,findings suggesting pneumonia,N,0.012336354481361823
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,evidence of pneumonia,N,0.13435362155290614
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,left lower lobe pneumonia,NL,0.0204288795837962
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,right upper lobe pneumonia,NL,0.002180549498472257
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,basilar pneumonia,NL,0.08521692193503459
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,patchy pneumonia,NS,0.04468693167053476
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,focal pneumonia,NS,0.20119492158312083
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,patchy consolidation in the left lower lobe,NSL,0.009857474728442357
+ca1470f8-20fe-4e11-ad99-9c83248e7b11,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.001307352300316686
+cd4f439d-61be-4ecb-bc27-383f9cd29569,pneumonia,N,0.129211854085641
+cd4f439d-61be-4ecb-bc27-383f9cd29569,findings suggesting pneumonia,N,0.010063806608906954
+cd4f439d-61be-4ecb-bc27-383f9cd29569,evidence of pneumonia,N,0.14846054028539077
+cd4f439d-61be-4ecb-bc27-383f9cd29569,left lower lobe pneumonia,NL,0.11498597033721869
+cd4f439d-61be-4ecb-bc27-383f9cd29569,right upper lobe pneumonia,NL,0.05117961453325531
+cd4f439d-61be-4ecb-bc27-383f9cd29569,basilar pneumonia,NL,0.16050780784350904
+cd4f439d-61be-4ecb-bc27-383f9cd29569,patchy pneumonia,NS,0.042233165613937355
+cd4f439d-61be-4ecb-bc27-383f9cd29569,focal pneumonia,NS,0.12406188661810179
+cd4f439d-61be-4ecb-bc27-383f9cd29569,patchy consolidation in the left lower lobe,NSL,0.14052249297086425
+cd4f439d-61be-4ecb-bc27-383f9cd29569,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.016072639983292766
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,pneumonia,N,0.09334092202604818
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,findings suggesting pneumonia,N,0.023032885101819955
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,evidence of pneumonia,N,0.024669955994099654
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,left lower lobe pneumonia,NL,0.1598490566035323
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,right upper lobe pneumonia,NL,0.0005207655253215457
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,basilar pneumonia,NL,0.08884795238757426
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,patchy pneumonia,NS,0.05448058185802871
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,focal pneumonia,NS,0.01747881355929889
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,patchy consolidation in the left lower lobe,NSL,0.22239898186410692
+cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,pneumonia,N,0.12674150546250038
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,findings suggesting pneumonia,N,0.11506224272176012
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,evidence of pneumonia,N,0.11972707804167551
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,left lower lobe pneumonia,NL,0.13953370501766876
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,right upper lobe pneumonia,NL,0.10059721950259418
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,basilar pneumonia,NL,0.13837974683537296
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,patchy pneumonia,NS,0.10797358564946384
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,focal pneumonia,NS,0.09326525650372318
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,patchy consolidation in the left lower lobe,NSL,0.1548102111047538
+cf1ea4a8-9530-4ddf-969d-c5570838ae11,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.06277475774045721
+d03f855d-a0b8-45b9-afdb-8844186c11eb,pneumonia,N,0.04603431800239061
+d03f855d-a0b8-45b9-afdb-8844186c11eb,findings suggesting pneumonia,N,0.015447285633614806
+d03f855d-a0b8-45b9-afdb-8844186c11eb,evidence of pneumonia,N,0.04512245745120584
+d03f855d-a0b8-45b9-afdb-8844186c11eb,left lower lobe pneumonia,NL,0.13256860098959397
+d03f855d-a0b8-45b9-afdb-8844186c11eb,right upper lobe pneumonia,NL,0.11639765874418392
+d03f855d-a0b8-45b9-afdb-8844186c11eb,basilar pneumonia,NL,0.14285065819330783
+d03f855d-a0b8-45b9-afdb-8844186c11eb,patchy pneumonia,NS,0.04114630717060576
+d03f855d-a0b8-45b9-afdb-8844186c11eb,focal pneumonia,NS,0.01364844190352941
+d03f855d-a0b8-45b9-afdb-8844186c11eb,patchy consolidation in the left lower lobe,NSL,0.15194912152262446
+d03f855d-a0b8-45b9-afdb-8844186c11eb,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04338997099045031
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,pneumonia,N,0.013402155211434027
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,findings suggesting pneumonia,N,0.0
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,evidence of pneumonia,N,0.015240860019944442
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,left lower lobe pneumonia,NL,0.14285714285699697
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,right upper lobe pneumonia,NL,0.03677969242168169
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,basilar pneumonia,NL,0.026414748234406663
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,patchy pneumonia,NS,0.0
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,focal pneumonia,NS,8.93655049150229e-05
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,patchy consolidation in the left lower lobe,NSL,0.11519681116082192
+d16488a8-5cfd-4051-bb2c-d7f7c88009e2,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.011113118901327147
+d173cb76-6a90-471e-bb22-dbe16573ce6c,pneumonia,N,0.016662612503020355
+d173cb76-6a90-471e-bb22-dbe16573ce6c,findings suggesting pneumonia,N,0.0
+d173cb76-6a90-471e-bb22-dbe16573ce6c,evidence of pneumonia,N,0.0455284552844959
+d173cb76-6a90-471e-bb22-dbe16573ce6c,left lower lobe pneumonia,NL,0.15106031396288755
+d173cb76-6a90-471e-bb22-dbe16573ce6c,right upper lobe pneumonia,NL,0.0017976989453477974
+d173cb76-6a90-471e-bb22-dbe16573ce6c,basilar pneumonia,NL,0.034913953200402484
+d173cb76-6a90-471e-bb22-dbe16573ce6c,patchy pneumonia,NS,0.0013176808816467204
+d173cb76-6a90-471e-bb22-dbe16573ce6c,focal pneumonia,NS,0.0328679105399322
+d173cb76-6a90-471e-bb22-dbe16573ce6c,patchy consolidation in the left lower lobe,NSL,0.08685476530998978
+d173cb76-6a90-471e-bb22-dbe16573ce6c,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.006380929448583697
+d187294d-3dff-4de1-9bef-90a4f4c76cef,pneumonia,N,0.09998193641613981
+d187294d-3dff-4de1-9bef-90a4f4c76cef,findings suggesting pneumonia,N,0.004163746547386666
+d187294d-3dff-4de1-9bef-90a4f4c76cef,evidence of pneumonia,N,0.12455565301688538
+d187294d-3dff-4de1-9bef-90a4f4c76cef,left lower lobe pneumonia,NL,0.189645909645817
+d187294d-3dff-4de1-9bef-90a4f4c76cef,right upper lobe pneumonia,NL,0.05404820632651605
+d187294d-3dff-4de1-9bef-90a4f4c76cef,basilar pneumonia,NL,0.13880966852113757
+d187294d-3dff-4de1-9bef-90a4f4c76cef,patchy pneumonia,NS,0.04968756733460474
+d187294d-3dff-4de1-9bef-90a4f4c76cef,focal pneumonia,NS,0.09908852991602785
+d187294d-3dff-4de1-9bef-90a4f4c76cef,patchy consolidation in the left lower lobe,NSL,0.15037309908371096
+d187294d-3dff-4de1-9bef-90a4f4c76cef,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03938553445699194
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,pneumonia,N,0.04978388391475009
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,findings suggesting pneumonia,N,0.04270162526828986
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,evidence of pneumonia,N,0.12637681159409822
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,left lower lobe pneumonia,NL,0.16977724262477872
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,right upper lobe pneumonia,NL,0.023401053423609177
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,basilar pneumonia,NL,0.07161991805856317
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,patchy pneumonia,NS,0.00897626112758978
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,focal pneumonia,NS,0.06282722513084095
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,patchy consolidation in the left lower lobe,NSL,0.11648333606951528
+d27e22bc-ba0f-434f-a4f5-cdd9a24e598f,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.006810274631721955
+d561ede1-9992-4d20-a935-53a32a8c05d1,pneumonia,N,0.05749390358276355
+d561ede1-9992-4d20-a935-53a32a8c05d1,findings suggesting pneumonia,N,0.03830923657791849
+d561ede1-9992-4d20-a935-53a32a8c05d1,evidence of pneumonia,N,0.02304691044367748
+d561ede1-9992-4d20-a935-53a32a8c05d1,left lower lobe pneumonia,NL,0.1022582852672771
+d561ede1-9992-4d20-a935-53a32a8c05d1,right upper lobe pneumonia,NL,0.055118847089598424
+d561ede1-9992-4d20-a935-53a32a8c05d1,basilar pneumonia,NL,0.070445267255226
+d561ede1-9992-4d20-a935-53a32a8c05d1,patchy pneumonia,NS,0.05502011790020116
+d561ede1-9992-4d20-a935-53a32a8c05d1,focal pneumonia,NS,0.02752209969923674
+d561ede1-9992-4d20-a935-53a32a8c05d1,patchy consolidation in the left lower lobe,NSL,0.10096670247036327
+d561ede1-9992-4d20-a935-53a32a8c05d1,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0504984626851295
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,pneumonia,N,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,findings suggesting pneumonia,N,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,evidence of pneumonia,N,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,left lower lobe pneumonia,NL,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,right upper lobe pneumonia,NL,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,basilar pneumonia,NL,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,patchy pneumonia,NS,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,focal pneumonia,NS,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,patchy consolidation in the left lower lobe,NSL,0.0
+d5d46405-ff85-46fa-9c3b-2c21ad366f76,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,pneumonia,N,0.01579925650555523
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,findings suggesting pneumonia,N,0.0
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,evidence of pneumonia,N,0.03714246983863746
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,left lower lobe pneumonia,NL,0.004727511490473109
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,right upper lobe pneumonia,NL,0.0
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,basilar pneumonia,NL,0.018232632419459365
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,patchy pneumonia,NS,0.0
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,focal pneumonia,NS,0.03573845945575235
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,patchy consolidation in the left lower lobe,NSL,0.03658040915860103
+d974dbc0-5e7d-4aac-bda5-f29096aeeb5a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+db4414d8-4ce8-4e92-b543-e9d42883f58b,pneumonia,N,0.007612568837046303
+db4414d8-4ce8-4e92-b543-e9d42883f58b,findings suggesting pneumonia,N,0.001287622726539051
+db4414d8-4ce8-4e92-b543-e9d42883f58b,evidence of pneumonia,N,0.02487644151560976
+db4414d8-4ce8-4e92-b543-e9d42883f58b,left lower lobe pneumonia,NL,0.09255356515614234
+db4414d8-4ce8-4e92-b543-e9d42883f58b,right upper lobe pneumonia,NL,0.0030635278942227288
+db4414d8-4ce8-4e92-b543-e9d42883f58b,basilar pneumonia,NL,0.017001798267096614
+db4414d8-4ce8-4e92-b543-e9d42883f58b,patchy pneumonia,NS,0.001287622726539051
+db4414d8-4ce8-4e92-b543-e9d42883f58b,focal pneumonia,NS,0.000643397136881706
+db4414d8-4ce8-4e92-b543-e9d42883f58b,patchy consolidation in the left lower lobe,NSL,0.08116093152575397
+db4414d8-4ce8-4e92-b543-e9d42883f58b,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.00048247024766728456
+dda53143-9bcc-4c5f-aca6-970626733e17,pneumonia,N,0.0
+dda53143-9bcc-4c5f-aca6-970626733e17,findings suggesting pneumonia,N,0.0
+dda53143-9bcc-4c5f-aca6-970626733e17,evidence of pneumonia,N,0.005077096652867474
+dda53143-9bcc-4c5f-aca6-970626733e17,left lower lobe pneumonia,NL,0.027884615384561762
+dda53143-9bcc-4c5f-aca6-970626733e17,right upper lobe pneumonia,NL,0.0
+dda53143-9bcc-4c5f-aca6-970626733e17,basilar pneumonia,NL,0.0
+dda53143-9bcc-4c5f-aca6-970626733e17,patchy pneumonia,NS,0.0
+dda53143-9bcc-4c5f-aca6-970626733e17,focal pneumonia,NS,0.0
+dda53143-9bcc-4c5f-aca6-970626733e17,patchy consolidation in the left lower lobe,NSL,0.03464963221054075
+dda53143-9bcc-4c5f-aca6-970626733e17,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+de0ee373-dd0c-4f75-aa2c-c356d203696e,pneumonia,N,0.037175648702548435
+de0ee373-dd0c-4f75-aa2c-c356d203696e,findings suggesting pneumonia,N,0.01899742615514279
+de0ee373-dd0c-4f75-aa2c-c356d203696e,evidence of pneumonia,N,0.010697787503026138
+de0ee373-dd0c-4f75-aa2c-c356d203696e,left lower lobe pneumonia,NL,0.10002646202685893
+de0ee373-dd0c-4f75-aa2c-c356d203696e,right upper lobe pneumonia,NL,0.011923591677805177
+de0ee373-dd0c-4f75-aa2c-c356d203696e,basilar pneumonia,NL,0.07305110996376736
+de0ee373-dd0c-4f75-aa2c-c356d203696e,patchy pneumonia,NS,0.00012029351617933321
+de0ee373-dd0c-4f75-aa2c-c356d203696e,focal pneumonia,NS,0.0058069199128891755
+de0ee373-dd0c-4f75-aa2c-c356d203696e,patchy consolidation in the left lower lobe,NSL,0.06699178644755263
+de0ee373-dd0c-4f75-aa2c-c356d203696e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.014644862094197405
+dfed644c-9548-465a-b962-78ead3498f38,pneumonia,N,0.04748295226632196
+dfed644c-9548-465a-b962-78ead3498f38,findings suggesting pneumonia,N,0.007815138212162759
+dfed644c-9548-465a-b962-78ead3498f38,evidence of pneumonia,N,0.06837475708291481
+dfed644c-9548-465a-b962-78ead3498f38,left lower lobe pneumonia,NL,0.12930428671813107
+dfed644c-9548-465a-b962-78ead3498f38,right upper lobe pneumonia,NL,0.013683342229116558
+dfed644c-9548-465a-b962-78ead3498f38,basilar pneumonia,NL,0.044027986006974495
+dfed644c-9548-465a-b962-78ead3498f38,patchy pneumonia,NS,0.03196008693932426
+dfed644c-9548-465a-b962-78ead3498f38,focal pneumonia,NS,0.02141495135186945
+dfed644c-9548-465a-b962-78ead3498f38,patchy consolidation in the left lower lobe,NSL,0.09721638655457078
+dfed644c-9548-465a-b962-78ead3498f38,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.016791589603807656
+e6a3f420-39d4-4042-8485-87024e7fb4f3,pneumonia,N,0.1024691358023637
+e6a3f420-39d4-4042-8485-87024e7fb4f3,findings suggesting pneumonia,N,0.05493207324271024
+e6a3f420-39d4-4042-8485-87024e7fb4f3,evidence of pneumonia,N,0.06309523809517549
+e6a3f420-39d4-4042-8485-87024e7fb4f3,left lower lobe pneumonia,NL,0.18657955929555245
+e6a3f420-39d4-4042-8485-87024e7fb4f3,right upper lobe pneumonia,NL,0.06796890572048239
+e6a3f420-39d4-4042-8485-87024e7fb4f3,basilar pneumonia,NL,0.14658677509079115
+e6a3f420-39d4-4042-8485-87024e7fb4f3,patchy pneumonia,NS,0.04955925563168505
+e6a3f420-39d4-4042-8485-87024e7fb4f3,focal pneumonia,NS,0.06214689265530563
+e6a3f420-39d4-4042-8485-87024e7fb4f3,patchy consolidation in the left lower lobe,NSL,0.12657695542459357
+e6a3f420-39d4-4042-8485-87024e7fb4f3,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04914822792241125
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,pneumonia,N,0.005180658873531907
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,findings suggesting pneumonia,N,0.011495789332961508
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,evidence of pneumonia,N,0.014887339055774025
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,left lower lobe pneumonia,NL,0.05141030985125551
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,right upper lobe pneumonia,NL,0.010010678056580338
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,basilar pneumonia,NL,0.013392259274121613
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,patchy pneumonia,NS,0.0
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,focal pneumonia,NS,0.006785524214998955
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,patchy consolidation in the left lower lobe,NSL,0.031066902847757098
+e8659775-8a7f-40c1-a3a9-abdc85ba4fd4,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03884694577894462
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,pneumonia,N,0.14055985705760504
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,findings suggesting pneumonia,N,0.01872539631873739
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,evidence of pneumonia,N,0.11194983161060044
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,left lower lobe pneumonia,NL,0.23964267219026458
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,right upper lobe pneumonia,NL,0.02428326914845498
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,basilar pneumonia,NL,0.21202531645542783
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,patchy pneumonia,NS,0.11739992998002403
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,focal pneumonia,NS,0.2021343377273043
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,patchy consolidation in the left lower lobe,NSL,0.1325999526849626
+eadbf3c9-f034-4b29-9a46-b90a16978a2a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0002089209234302633
+ed38283d-165f-481b-bbb3-5532450b82c1,pneumonia,N,0.04494598765427763
+ed38283d-165f-481b-bbb3-5532450b82c1,findings suggesting pneumonia,N,0.03863483846223887
+ed38283d-165f-481b-bbb3-5532450b82c1,evidence of pneumonia,N,0.023523854511078388
+ed38283d-165f-481b-bbb3-5532450b82c1,left lower lobe pneumonia,NL,0.07267326732666071
+ed38283d-165f-481b-bbb3-5532450b82c1,right upper lobe pneumonia,NL,0.04293415479395173
+ed38283d-165f-481b-bbb3-5532450b82c1,basilar pneumonia,NL,0.09268784669683036
+ed38283d-165f-481b-bbb3-5532450b82c1,patchy pneumonia,NS,0.00959835989189302
+ed38283d-165f-481b-bbb3-5532450b82c1,focal pneumonia,NS,0.006596673789829418
+ed38283d-165f-481b-bbb3-5532450b82c1,patchy consolidation in the left lower lobe,NSL,0.07309825673526832
+ed38283d-165f-481b-bbb3-5532450b82c1,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02197905857935857
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,pneumonia,N,0.021069004524857087
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,findings suggesting pneumonia,N,0.015897580191311343
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,evidence of pneumonia,N,0.037649087512519545
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,left lower lobe pneumonia,NL,0.12057728119161921
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,right upper lobe pneumonia,NL,0.06222418358331535
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,basilar pneumonia,NL,0.07439369141485733
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,patchy pneumonia,NS,0.00669176076954316
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,focal pneumonia,NS,0.005430242272339974
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,patchy consolidation in the left lower lobe,NSL,0.12476635513999258
+ef7cd600-75c9-4b07-bb0e-f66e857fdafa,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.02280453257787138
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,pneumonia,N,0.07594420425803414
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,findings suggesting pneumonia,N,0.05158666879281487
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,evidence of pneumonia,N,0.12199064227977711
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,left lower lobe pneumonia,NL,0.1386514719846856
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,right upper lobe pneumonia,NL,0.033939488948084386
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,basilar pneumonia,NL,0.08133147495279057
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,patchy pneumonia,NS,0.09579594549676321
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,focal pneumonia,NS,0.12056074766344896
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,patchy consolidation in the left lower lobe,NSL,0.1032204098702608
+f21a2acc-e6f1-4132-b094-83c9e94a5e7d,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.027260690084876343
+f27252da-ac5d-46b2-8df9-32e09763574b,pneumonia,N,0.06456353482897563
+f27252da-ac5d-46b2-8df9-32e09763574b,findings suggesting pneumonia,N,0.07445861762081038
+f27252da-ac5d-46b2-8df9-32e09763574b,evidence of pneumonia,N,0.025863696431918194
+f27252da-ac5d-46b2-8df9-32e09763574b,left lower lobe pneumonia,NL,0.07202052091547748
+f27252da-ac5d-46b2-8df9-32e09763574b,right upper lobe pneumonia,NL,0.06435498089914354
+f27252da-ac5d-46b2-8df9-32e09763574b,basilar pneumonia,NL,0.1460816369579727
+f27252da-ac5d-46b2-8df9-32e09763574b,patchy pneumonia,NS,0.01050869524782804
+f27252da-ac5d-46b2-8df9-32e09763574b,focal pneumonia,NS,0.01173184357540807
+f27252da-ac5d-46b2-8df9-32e09763574b,patchy consolidation in the left lower lobe,NSL,0.019994367783704125
+f27252da-ac5d-46b2-8df9-32e09763574b,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.022682352941155122
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,pneumonia,N,0.018785425101184153
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,findings suggesting pneumonia,N,0.0
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,evidence of pneumonia,N,0.032665791201522215
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,left lower lobe pneumonia,NL,0.08111359340078861
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,right upper lobe pneumonia,NL,0.002070723160238817
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,basilar pneumonia,NL,0.024425989252524954
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,patchy pneumonia,NS,0.008173076923063825
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,focal pneumonia,NS,0.009791332263226659
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,patchy consolidation in the left lower lobe,NSL,0.09522980501376178
+f4ed7de6-fcbb-425f-9a20-9ef2dda05d78,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+f638a33c-ee3e-4179-a095-4fec05ab51e5,pneumonia,N,0.14492987264219198
+f638a33c-ee3e-4179-a095-4fec05ab51e5,findings suggesting pneumonia,N,0.011344757203203425
+f638a33c-ee3e-4179-a095-4fec05ab51e5,evidence of pneumonia,N,0.10034602076119385
+f638a33c-ee3e-4179-a095-4fec05ab51e5,left lower lobe pneumonia,NL,0.22673883003211265
+f638a33c-ee3e-4179-a095-4fec05ab51e5,right upper lobe pneumonia,NL,0.16362643364272875
+f638a33c-ee3e-4179-a095-4fec05ab51e5,basilar pneumonia,NL,0.18452215488953994
+f638a33c-ee3e-4179-a095-4fec05ab51e5,patchy pneumonia,NS,0.048162542431225384
+f638a33c-ee3e-4179-a095-4fec05ab51e5,focal pneumonia,NS,0.03668742701438464
+f638a33c-ee3e-4179-a095-4fec05ab51e5,patchy consolidation in the left lower lobe,NSL,0.17349636483797448
+f638a33c-ee3e-4179-a095-4fec05ab51e5,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.09915394139491376
+f73ff426-6e28-476e-82c6-31d3603a1cc3,pneumonia,N,0.06854309464770521
+f73ff426-6e28-476e-82c6-31d3603a1cc3,findings suggesting pneumonia,N,0.0
+f73ff426-6e28-476e-82c6-31d3603a1cc3,evidence of pneumonia,N,0.10015015014999977
+f73ff426-6e28-476e-82c6-31d3603a1cc3,left lower lobe pneumonia,NL,0.05988716910160583
+f73ff426-6e28-476e-82c6-31d3603a1cc3,right upper lobe pneumonia,NL,0.009785005512665677
+f73ff426-6e28-476e-82c6-31d3603a1cc3,basilar pneumonia,NL,0.022039336030098982
+f73ff426-6e28-476e-82c6-31d3603a1cc3,patchy pneumonia,NS,0.039143383917119356
+f73ff426-6e28-476e-82c6-31d3603a1cc3,focal pneumonia,NS,0.0825945626476321
+f73ff426-6e28-476e-82c6-31d3603a1cc3,patchy consolidation in the left lower lobe,NSL,0.07988209285176141
+f73ff426-6e28-476e-82c6-31d3603a1cc3,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+f957afbf-fa78-47a0-942c-17b2f5262fc9,pneumonia,N,0.07560866651767298
+f957afbf-fa78-47a0-942c-17b2f5262fc9,findings suggesting pneumonia,N,0.06126721763078648
+f957afbf-fa78-47a0-942c-17b2f5262fc9,evidence of pneumonia,N,0.03972794990819418
+f957afbf-fa78-47a0-942c-17b2f5262fc9,left lower lobe pneumonia,NL,0.2548534201951077
+f957afbf-fa78-47a0-942c-17b2f5262fc9,right upper lobe pneumonia,NL,0.18593769240218455
+f957afbf-fa78-47a0-942c-17b2f5262fc9,basilar pneumonia,NL,0.1638670694862068
+f957afbf-fa78-47a0-942c-17b2f5262fc9,patchy pneumonia,NS,0.060332489265594695
+f957afbf-fa78-47a0-942c-17b2f5262fc9,focal pneumonia,NS,0.009538784067075954
+f957afbf-fa78-47a0-942c-17b2f5262fc9,patchy consolidation in the left lower lobe,NSL,0.23001277139178797
+f957afbf-fa78-47a0-942c-17b2f5262fc9,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.12954669579450623
+f9883384-de94-4687-8c57-69d2e4a37c82,pneumonia,N,0.1560300608372229
+f9883384-de94-4687-8c57-69d2e4a37c82,findings suggesting pneumonia,N,0.07035564391421431
+f9883384-de94-4687-8c57-69d2e4a37c82,evidence of pneumonia,N,0.05889423076916641
+f9883384-de94-4687-8c57-69d2e4a37c82,left lower lobe pneumonia,NL,0.05831604237189219
+f9883384-de94-4687-8c57-69d2e4a37c82,right upper lobe pneumonia,NL,0.1653439153437165
+f9883384-de94-4687-8c57-69d2e4a37c82,basilar pneumonia,NL,0.13477751756424497
+f9883384-de94-4687-8c57-69d2e4a37c82,patchy pneumonia,NS,0.05773848504686996
+f9883384-de94-4687-8c57-69d2e4a37c82,focal pneumonia,NS,0.039472272873496216
+f9883384-de94-4687-8c57-69d2e4a37c82,patchy consolidation in the left lower lobe,NSL,0.09194366197172738
+f9883384-de94-4687-8c57-69d2e4a37c82,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.12790968342629433
+f9bf7579-e589-4953-bd68-d92f44f0aa95,pneumonia,N,0.0893143915996426
+f9bf7579-e589-4953-bd68-d92f44f0aa95,findings suggesting pneumonia,N,0.04022649522231895
+f9bf7579-e589-4953-bd68-d92f44f0aa95,evidence of pneumonia,N,0.11775890480400841
+f9bf7579-e589-4953-bd68-d92f44f0aa95,left lower lobe pneumonia,NL,0.3069512375866208
+f9bf7579-e589-4953-bd68-d92f44f0aa95,right upper lobe pneumonia,NL,0.03863368669017828
+f9bf7579-e589-4953-bd68-d92f44f0aa95,basilar pneumonia,NL,0.20349392657267162
+f9bf7579-e589-4953-bd68-d92f44f0aa95,patchy pneumonia,NS,0.10169915042466054
+f9bf7579-e589-4953-bd68-d92f44f0aa95,focal pneumonia,NS,0.08596059113289907
+f9bf7579-e589-4953-bd68-d92f44f0aa95,patchy consolidation in the left lower lobe,NSL,0.10183681119567432
+f9bf7579-e589-4953-bd68-d92f44f0aa95,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.027499417385192845
+fb8167ad-76f8-4f75-a422-90304c82f9d7,pneumonia,N,0.03969643899587497
+fb8167ad-76f8-4f75-a422-90304c82f9d7,findings suggesting pneumonia,N,0.0035687453042791426
+fb8167ad-76f8-4f75-a422-90304c82f9d7,evidence of pneumonia,N,0.08443271767801458
+fb8167ad-76f8-4f75-a422-90304c82f9d7,left lower lobe pneumonia,NL,0.18905085122934343
+fb8167ad-76f8-4f75-a422-90304c82f9d7,right upper lobe pneumonia,NL,0.036268425135728984
+fb8167ad-76f8-4f75-a422-90304c82f9d7,basilar pneumonia,NL,0.19610476830065354
+fb8167ad-76f8-4f75-a422-90304c82f9d7,patchy pneumonia,NS,0.004701015419326155
+fb8167ad-76f8-4f75-a422-90304c82f9d7,focal pneumonia,NS,0.011740200719549574
+fb8167ad-76f8-4f75-a422-90304c82f9d7,patchy consolidation in the left lower lobe,NSL,0.10483870967731095
+fb8167ad-76f8-4f75-a422-90304c82f9d7,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.019851116625291227
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,pneumonia,N,0.0589978101248757
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,findings suggesting pneumonia,N,0.011939931068424496
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,evidence of pneumonia,N,0.04367144852095509
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,left lower lobe pneumonia,NL,0.171750285062469
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,right upper lobe pneumonia,NL,0.017198713189783225
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,basilar pneumonia,NL,0.07788121148540988
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,patchy pneumonia,NS,0.05532734274704066
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,focal pneumonia,NS,0.05627650006417027
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,patchy consolidation in the left lower lobe,NSL,0.16378822197032306
+fe83e190-f2d6-4998-9f82-b1ccd5bcb863,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.03512969025429976
+00a05408-8291-4231-886e-13763e103161,pneumonia,N,0.048594181699944256
+00a05408-8291-4231-886e-13763e103161,findings suggesting pneumonia,N,0.004515024132022019
+00a05408-8291-4231-886e-13763e103161,evidence of pneumonia,N,0.012793344321471788
+00a05408-8291-4231-886e-13763e103161,left lower lobe pneumonia,NL,0.002486016159103103
+00a05408-8291-4231-886e-13763e103161,right upper lobe pneumonia,NL,0.10422728050649989
+00a05408-8291-4231-886e-13763e103161,basilar pneumonia,NL,0.013031873135489846
+00a05408-8291-4231-886e-13763e103161,patchy pneumonia,NS,0.00023254011316934149
+00a05408-8291-4231-886e-13763e103161,focal pneumonia,NS,0.000930809804529219
+00a05408-8291-4231-886e-13763e103161,patchy consolidation in the left lower lobe,NSL,0.02820717131471856
+00a05408-8291-4231-886e-13763e103161,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.05683865683861029
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,pneumonia,N,0.13524969173849008
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,findings suggesting pneumonia,N,0.004432019637253217
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,evidence of pneumonia,N,0.024337667756050108
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,left lower lobe pneumonia,NL,0.03368184688791405
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,right upper lobe pneumonia,NL,0.08435774751558014
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,basilar pneumonia,NL,0.07134545454540266
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,patchy pneumonia,NS,0.020505715275358154
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,focal pneumonia,NS,0.01306650161611095
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,patchy consolidation in the left lower lobe,NSL,0.1259649927385722
+1462ffd1-939b-49b7-9234-eeeb7f4986cc,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.04467768243383825
+1c049d3b-394b-47d6-9b54-405d46db1ad7,pneumonia,N,0.061460168330277044
+1c049d3b-394b-47d6-9b54-405d46db1ad7,findings suggesting pneumonia,N,0.057321115227028034
+1c049d3b-394b-47d6-9b54-405d46db1ad7,evidence of pneumonia,N,0.08568568568551414
+1c049d3b-394b-47d6-9b54-405d46db1ad7,left lower lobe pneumonia,NL,0.03216596878562587
+1c049d3b-394b-47d6-9b54-405d46db1ad7,right upper lobe pneumonia,NL,0.0
+1c049d3b-394b-47d6-9b54-405d46db1ad7,basilar pneumonia,NL,0.09114688128754296
+1c049d3b-394b-47d6-9b54-405d46db1ad7,patchy pneumonia,NS,0.044290390910756226
+1c049d3b-394b-47d6-9b54-405d46db1ad7,focal pneumonia,NS,0.0770605759680694
+1c049d3b-394b-47d6-9b54-405d46db1ad7,patchy consolidation in the left lower lobe,NSL,0.009869646182476965
+1c049d3b-394b-47d6-9b54-405d46db1ad7,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,pneumonia,N,0.18422252621951024
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,findings suggesting pneumonia,N,0.049434267241312724
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,evidence of pneumonia,N,0.1131590227173694
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,left lower lobe pneumonia,NL,0.07432432432422184
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,right upper lobe pneumonia,NL,0.12648164209290766
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,basilar pneumonia,NL,0.1367084913916885
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,patchy pneumonia,NS,0.058128480238954054
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,focal pneumonia,NS,0.074768933645917
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,patchy consolidation in the left lower lobe,NSL,0.143213499632952
+2017d9e5-6f8b-42f0-97e1-ac5d29f9de60,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.033426183843966804
+23ab8dcb-0331-42b0-8058-45676e48675e,pneumonia,N,0.027995376910199057
+23ab8dcb-0331-42b0-8058-45676e48675e,findings suggesting pneumonia,N,0.0
+23ab8dcb-0331-42b0-8058-45676e48675e,evidence of pneumonia,N,0.009203227433170445
+23ab8dcb-0331-42b0-8058-45676e48675e,left lower lobe pneumonia,NL,0.0577431289639829
+23ab8dcb-0331-42b0-8058-45676e48675e,right upper lobe pneumonia,NL,0.03143924751960902
+23ab8dcb-0331-42b0-8058-45676e48675e,basilar pneumonia,NL,0.14096351197243306
+23ab8dcb-0331-42b0-8058-45676e48675e,patchy pneumonia,NS,0.07449664429520202
+23ab8dcb-0331-42b0-8058-45676e48675e,focal pneumonia,NS,0.007298351579203098
+23ab8dcb-0331-42b0-8058-45676e48675e,patchy consolidation in the left lower lobe,NSL,0.05121470781345868
+23ab8dcb-0331-42b0-8058-45676e48675e,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.002128192288429985
+267daad6-b373-4a1a-94b5-c2dc02f506f6,pneumonia,N,0.021112539012280968
+267daad6-b373-4a1a-94b5-c2dc02f506f6,findings suggesting pneumonia,N,0.0041523740747389844
+267daad6-b373-4a1a-94b5-c2dc02f506f6,evidence of pneumonia,N,0.009345794392514884
+267daad6-b373-4a1a-94b5-c2dc02f506f6,left lower lobe pneumonia,NL,0.08888018794039851
+267daad6-b373-4a1a-94b5-c2dc02f506f6,right upper lobe pneumonia,NL,0.028851488810774133
+267daad6-b373-4a1a-94b5-c2dc02f506f6,basilar pneumonia,NL,0.024875621890524342
+267daad6-b373-4a1a-94b5-c2dc02f506f6,patchy pneumonia,NS,0.01998716420645458
+267daad6-b373-4a1a-94b5-c2dc02f506f6,focal pneumonia,NS,0.012285012285001104
+267daad6-b373-4a1a-94b5-c2dc02f506f6,patchy consolidation in the left lower lobe,NSL,0.11273382014593103
+267daad6-b373-4a1a-94b5-c2dc02f506f6,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0182151029748117
+2b885980-3f3c-452f-9ca6-af215dbfe61c,pneumonia,N,0.012451277609341217
+2b885980-3f3c-452f-9ca6-af215dbfe61c,findings suggesting pneumonia,N,0.0
+2b885980-3f3c-452f-9ca6-af215dbfe61c,evidence of pneumonia,N,0.014977208595599112
+2b885980-3f3c-452f-9ca6-af215dbfe61c,left lower lobe pneumonia,NL,0.0
+2b885980-3f3c-452f-9ca6-af215dbfe61c,right upper lobe pneumonia,NL,0.0
+2b885980-3f3c-452f-9ca6-af215dbfe61c,basilar pneumonia,NL,0.0007491438356156365
+2b885980-3f3c-452f-9ca6-af215dbfe61c,patchy pneumonia,NS,0.004511762810178846
+2b885980-3f3c-452f-9ca6-af215dbfe61c,focal pneumonia,NS,0.05292196824675946
+2b885980-3f3c-452f-9ca6-af215dbfe61c,patchy consolidation in the left lower lobe,NSL,0.0
+2b885980-3f3c-452f-9ca6-af215dbfe61c,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0
+2cc72d62-1144-4fe9-a4ab-da083ad11392,pneumonia,N,0.09698590179865743
+2cc72d62-1144-4fe9-a4ab-da083ad11392,findings suggesting pneumonia,N,0.0040044493882061515
+2cc72d62-1144-4fe9-a4ab-da083ad11392,evidence of pneumonia,N,0.1240348692402457
+2cc72d62-1144-4fe9-a4ab-da083ad11392,left lower lobe pneumonia,NL,0.1406065711877501
+2cc72d62-1144-4fe9-a4ab-da083ad11392,right upper lobe pneumonia,NL,0.0353238015138502
+2cc72d62-1144-4fe9-a4ab-da083ad11392,basilar pneumonia,NL,0.05938967136145587
+2cc72d62-1144-4fe9-a4ab-da083ad11392,patchy pneumonia,NS,0.03438001375197923
+2cc72d62-1144-4fe9-a4ab-da083ad11392,focal pneumonia,NS,0.05198135198131159
+2cc72d62-1144-4fe9-a4ab-da083ad11392,patchy consolidation in the left lower lobe,NSL,0.12909682261685504
+2cc72d62-1144-4fe9-a4ab-da083ad11392,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.029346917053121455
+2f200e3f-8e4c-4675-948c-8226cd65163a,pneumonia,N,0.0803132964505002
+2f200e3f-8e4c-4675-948c-8226cd65163a,findings suggesting pneumonia,N,0.01288028907797361
+2f200e3f-8e4c-4675-948c-8226cd65163a,evidence of pneumonia,N,0.07944099378877054
+2f200e3f-8e4c-4675-948c-8226cd65163a,left lower lobe pneumonia,NL,0.1417778069771094
+2f200e3f-8e4c-4675-948c-8226cd65163a,right upper lobe pneumonia,NL,0.010583241263004835
+2f200e3f-8e4c-4675-948c-8226cd65163a,basilar pneumonia,NL,0.1252185173194398
+2f200e3f-8e4c-4675-948c-8226cd65163a,patchy pneumonia,NS,0.053464266230191265
+2f200e3f-8e4c-4675-948c-8226cd65163a,focal pneumonia,NS,0.07897187558199605
+2f200e3f-8e4c-4675-948c-8226cd65163a,patchy consolidation in the left lower lobe,NSL,0.10419975856146883
+2f200e3f-8e4c-4675-948c-8226cd65163a,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.005903802743528446
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,pneumonia,N,0.04501823766553559
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,findings suggesting pneumonia,N,0.022445529676913555
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,evidence of pneumonia,N,0.04894498506595149
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,left lower lobe pneumonia,NL,0.046122801960174764
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,right upper lobe pneumonia,NL,0.03735111958071715
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,basilar pneumonia,NL,0.05402265466157999
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,patchy pneumonia,NS,0.014253773057560783
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,focal pneumonia,NS,0.008989805375339211
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,patchy consolidation in the left lower lobe,NSL,0.05504409341985168
+2f686840-18b3-45ac-a2bb-6140e3b0ac73,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0034091956141127713
+308e8db6-f833-45b2-adb7-0f019ff96135,pneumonia,N,0.001964339679658561
+308e8db6-f833-45b2-adb7-0f019ff96135,findings suggesting pneumonia,N,0.0
+308e8db6-f833-45b2-adb7-0f019ff96135,evidence of pneumonia,N,0.010207190737339722
+308e8db6-f833-45b2-adb7-0f019ff96135,left lower lobe pneumonia,NL,0.12123774095346426
+308e8db6-f833-45b2-adb7-0f019ff96135,right upper lobe pneumonia,NL,0.000301659125188082
+308e8db6-f833-45b2-adb7-0f019ff96135,basilar pneumonia,NL,0.0006035913686425176
+308e8db6-f833-45b2-adb7-0f019ff96135,patchy pneumonia,NS,0.0
+308e8db6-f833-45b2-adb7-0f019ff96135,focal pneumonia,NS,0.0025703054127569243
+308e8db6-f833-45b2-adb7-0f019ff96135,patchy consolidation in the left lower lobe,NSL,0.045734111338833414
+308e8db6-f833-45b2-adb7-0f019ff96135,focal opacity in the right upper lobe consistent with pneumonia,NSL,0.0

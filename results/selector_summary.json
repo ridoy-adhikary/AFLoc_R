@@ -1,0 +1,12 @@
+{
+  "default_iou": 0.025100219990242086,
+  "mean_iou": 0.06191574973824362,
+  "ensemble_iou": 0.0773,
+  "selector_iou": 0.12649887722532732,
+  "oracle_iou": 0.1329846130366176,
+  "selector_top3_pct": 92.0,
+  "val_only_selector_iou": 0.0882,
+  "val_only_default_iou": 0.0191,
+  "val_only_oracle_iou": 0.1206,
+  "val_only_improvement_pct": 362.0
+}

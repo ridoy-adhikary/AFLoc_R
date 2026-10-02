@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="AFLoc-R: prompt robustness and learned prompt selection for annotation-free medical image localization.">
+  <title>AFLoc-R | Prompt Robustness and Learned Prompt Selection</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="site-nav" aria-label="Primary navigation">
+    <div class="nav-inner">
+      <a class="nav-brand" href="#top" aria-label="AFLoc-R home">AFLoc-R</a>
+      <div class="nav-links">
+        <a href="#abstract">Abstract</a>
+        <a href="#findings">Findings</a>
+        <a href="#method">Method</a>
+        <a href="#results">Results</a>
+        <a href="#selector">Selector</a>
+        <a href="#citation">Citation</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero" id="top">
+    <div class="hero-inner">
+      <p class="eyebrow">Independent empirical study</p>
+      <h1>AFLoc-R</h1>
+      <p class="hero-subtitle">Prompt Robustness and Learned Prompt Selection for Annotation-Free Medical Image Localization</p>
+      <p class="tagline">An independent empirical study and learned fix for prompt sensitivity in annotation-free medical vision-language models.</p>
+      <div class="hero-actions">
+        <a class="button button-primary" href="https://github.com/ridoy-adhikary/AFLoc_R">View on GitHub</a>
+        <a class="button button-secondary" href="https://doi.org/10.1038/s41551-025-01574-7">Read Paper</a>
+      </div>
+      <p class="byline"><strong>Ridoy Adhikary</strong> <span aria-hidden="true">·</span> Sichuan University</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="section" id="abstract">
+      <div class="content narrow">
+        <p class="section-label">01 / Abstract</p>
+        <h2>Why prompt wording matters</h2>
+        <p class="abstract-text">AFLoc achieves annotation-free pathology localization by aligning medical text with image features through multilevel contrastive learning. Its original paper acknowledges that localization performance depends substantially on prompt quality. This project quantifies that dependence and proposes a fix. We evaluate AFLoc's pretrained chest X-ray model across semantically equivalent prompt variants, measure localization stability, prompt-category effects, ensemble behavior, and cross-dataset degradation — then train a lightweight MLP that predicts the optimal prompt per image without prompt engineering. The study evaluates 200 positive cases from the RSNA Pneumonia Detection Challenge with 10 prompt variants per case, yielding 2,000 inferences in total. Our learned selector achieves +362% improvement over the paper's default prompt on held-out validation data, closing to within 27% of the theoretical oracle.</p>
+      </div>
+    </section>
+
+    <section class="section section-muted" id="findings">
+      <div class="content">
+        <p class="section-label">02 / Key findings</p>
+        <h2>Four signals from the robustness study</h2>
+        <div class="finding-grid">
+          <article class="finding-card">
+            <p class="finding-number">4.2×</p>
+            <h3>Prompt Swing</h3>
+            <p>Semantically equivalent prompts produce wildly different results, revealing severe instability.</p>
+          </article>
+          <article class="finding-card">
+            <p class="finding-number">78%</p>
+            <h3>Location &gt; Shape</h3>
+            <p>Location-aware prompts such as “left lower lobe” outperform shape-based prompts by 78%.</p>
+          </article>
+          <article class="finding-card">
+            <p class="finding-number">+494%</p>
+            <h3>Ensemble Trade-off</h3>
+            <p>Prompt ensembles improve worst-case safety but sacrifice peak accuracy by 42%.</p>
+          </article>
+          <article class="finding-card">
+            <p class="finding-number">5.2×</p>
+            <h3>Domain Gap</h3>
+            <p>Performance drops from 0.324 IoU on in-domain MS-CXR to 0.062 IoU on out-of-domain RSNA.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="method">
+      <div class="content">
+        <p class="section-label">03 / Method</p>
+        <h2>Study configuration</h2>
+        <div class="table-wrap">
+          <table>
+            <caption class="visually-hidden">AFLoc-R study components and configurations</caption>
+            <thead><tr><th scope="col">Component</th><th scope="col">Configuration</th></tr></thead>
+            <tbody>
+              <tr><th scope="row">Model</th><td>AFLoc, frozen, pretrained on MIMIC-CXR</td></tr>
+              <tr><th scope="row">Dataset</th><td>RSNA Pneumonia Detection Challenge</td></tr>
+              <tr><th scope="row">Sample</th><td>200 positive cases</td></tr>
+              <tr><th scope="row">Prompts</th><td>10 variants from DescriptorMedSAM taxonomy</td></tr>
+              <tr><th scope="row">Text Encoder</th><td>Bio_ClinicalBERT</td></tr>
+              <tr><th scope="row">Image Encoder</th><td>ResNet-50</td></tr>
+              <tr><th scope="row">Hardware</th><td>Kaggle free tier, NVIDIA T4</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-muted" id="results">
+      <div class="content">
+        <p class="section-label">04 / Results</p>
+        <h2>Prompt sensitivity in six views</h2>
+        <div class="figure-list">
+          <figure class="research-figure"><img src="figures/fig1_per_prompt.png" alt="Bar chart showing localization performance for each prompt variant" loading="lazy"><figcaption>Per-prompt localization performance.</figcaption></figure>
+          <figure class="research-figure"><img src="figures/fig2_category_distribution.png" alt="Distribution of IoU scores by prompt category" loading="lazy"><figcaption>IoU by prompt category.</figcaption></figure>
+          <figure class="research-figure"><img src="figures/fig3_variance.png" alt="Chart showing per-image sensitivity to prompt choice" loading="lazy"><figcaption>Per-image prompt sensitivity.</figcaption></figure>
+          <figure class="research-figure"><img src="figures/fig4_ensemble.png" alt="Comparison of ensemble, best single prompt, and worst single prompt" loading="lazy"><figcaption>Ensemble versus best and worst single prompt.</figcaption></figure>
+          <figure class="research-figure"><img src="figures/fig5_cross_dataset.png" alt="Comparison of AFLoc performance on in-domain MS-CXR and out-of-domain RSNA" loading="lazy"><figcaption>Cross-dataset degradation.</figcaption></figure>
+          <figure class="research-figure"><img src="figures/fig_summary.png" alt="Summary of AFLoc-R robustness study results" loading="lazy"><figcaption>Summary of the AFLoc-R robustness study.</figcaption></figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="selector">
+      <div class="content">
+        <p class="section-label">05 / Learned prompt selector</p>
+        <h2>Path B: select the prompt per image</h2>
+        <p class="section-intro">A lightweight MLP uses AFLoc's frozen image features to predict which of the ten prompt variants will localize best for each image. It replaces manual prompt engineering with an image-conditioned selection step.</p>
+        <div class="selector-layout">
+          <div>
+            <div class="table-wrap">
+              <table>
+                <caption class="visually-hidden">Learned prompt selector IoU results</caption>
+                <thead><tr><th scope="col">Strategy</th><th scope="col">IoU</th></tr></thead>
+                <tbody>
+                  <tr><th scope="row">Default</th><td>0.0191</td></tr>
+                  <tr class="highlight-row"><th scope="row">Selector</th><td>0.0882</td></tr>
+                  <tr><th scope="row">Oracle</th><td>0.1206</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <p class="callout"><strong>+362%</strong> improvement over default</p>
+          </div>
+          <figure class="research-figure selector-figure"><img src="figures/fig6_learned_selector.png" alt="Plot showing learned prompt selector performance against default and oracle strategies" loading="lazy"><figcaption>Learned selector performance on held-out data.</figcaption></figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-muted" id="citation">
+      <div class="content narrow">
+        <p class="section-label">06 / Citation</p>
+        <h2>Reference this work</h2>
+        <div class="citation-block">
+          <p>@article{yang2026afloc,<br>
+          &nbsp;&nbsp;author = {Yang, H. and Zhou, H.-Y. and Liu, J. and others},<br>
+          &nbsp;&nbsp;title = {A multimodal vision-language model for generalizable annotation-free pathology localization},<br>
+          &nbsp;&nbsp;journal = {Nature Biomedical Engineering},<br>
+          &nbsp;&nbsp;year = {2026},<br>
+          &nbsp;&nbsp;doi = {10.1038/s41551-025-01574-7}<br>
+          }</p>
+          <p>@article{zhang2026descriptormedsam,<br>
+          &nbsp;&nbsp;author = {Zhang, W. and Luo, L. and Hai, J. and Ye, J.},<br>
+          &nbsp;&nbsp;title = {DescriptorMedSAM: language-image fusion with multi-aspect text guidance for medical image segmentation},<br>
+          &nbsp;&nbsp;journal = {Scientific Reports},<br>
+          &nbsp;&nbsp;year = {2026},<br>
+          &nbsp;&nbsp;doi = {10.1038/s41598-025-33843-5}<br>
+          }</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="content footer-inner">
+      <p>Ridoy Adhikary · Sichuan University</p>
+      <p><a href="https://github.com/ridoy-adhikary/AFLoc_R">GitHub</a> <span aria-hidden="true">·</span> Built with HTML &amp; CSS</p>
+    </div>
+  </footer>
+</body>
+</html>

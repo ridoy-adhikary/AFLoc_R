@@ -17,6 +17,7 @@
         <a href="#method">Method</a>
         <a href="#results">Results</a>
         <a href="#selector">Selector</a>
+        <a href="#novelty">Novelty</a>
         <a href="#citation">Citation</a>
       </div>
     </div>
@@ -136,9 +137,54 @@
       </div>
     </section>
 
+    <section class="section section-muted" id="novelty">
+      <div class="content">
+        <p class="section-label">06 / Novelty</p>
+        <h2>Research contributions</h2>
+        <div class="novelty-grid">
+          <article class="novelty-card">
+            <div class="novelty-number" aria-hidden="true">01</div>
+            <div>
+              <h3>Systematic quantification of prompt sensitivity</h3>
+              <p>AFLoc's paper recommends “precise clinical descriptions” but does not measure how much performance varies across semantically equivalent prompts. We measure a 4.2× IoU swing, with the paper's own recommended default (“findings suggesting pneumonia”) being the worst-performing of 10 variants.</p>
+            </div>
+          </article>
+          <article class="novelty-card">
+            <div class="novelty-number" aria-hidden="true">02</div>
+            <div>
+              <h3>The “Location &gt; Shape” effect in prompt design</h3>
+              <p>Our controlled experiment shows that location-aware prompts (NL) outperform shape-based prompts (NS) by 78%, and combining both (NSL) yields no further gain.</p>
+            </div>
+          </article>
+          <article class="novelty-card">
+            <div class="novelty-number" aria-hidden="true">03</div>
+            <div>
+              <h3>Quantifying the ensemble trade-off</h3>
+              <p>Averaging heatmaps from multiple prompts improves worst-case safety by +494% but sacrifices 42% of peak accuracy, formalizing a fundamental trade-off.</p>
+            </div>
+          </article>
+          <article class="novelty-card">
+            <div class="novelty-number" aria-hidden="true">04</div>
+            <div>
+              <h3>Cross-dataset degradation baseline on RSNA</h3>
+              <p>AFLoc reports 0.324 IoU on in-domain MS-CXR. We report 0.062 IoU on RSNA Pneumonia, a 5.2× degradation, providing a reproducible baseline for domain-transfer evaluation.</p>
+            </div>
+          </article>
+          <article class="novelty-card">
+            <div class="novelty-number" aria-hidden="true">05</div>
+            <div>
+              <h3>Learned prompt selector for prompt robustness</h3>
+              <p>A lightweight MLP trained on frozen AFLoc features predicts the optimal prompt per image, achieving +362% over the paper's default prompt on held-out data and closing to within 27% of the theoretical oracle.</p>
+            </div>
+          </article>
+        </div>
+        <p class="significance"><strong>Significance.</strong> Together, these findings suggest AFLoc's central promise — annotation-free localization — is more prompt-fragile and domain-fragile than the original paper's benchmark results imply, but that a small learned component can recover most of the loss.</p>
+      </div>
+    </section>
+
     <section class="section section-muted" id="citation">
       <div class="content narrow">
-        <p class="section-label">06 / Citation</p>
+        <p class="section-label">07 / Citation</p>
         <h2>Reference this work</h2>
         <div class="citation-block">
           <p>@article{yang2026afloc,<br>

@@ -115,6 +115,14 @@ figcaption { margin-top: 11px; color: var(--muted); font-size: 0.93rem; font-sty
 .callout { margin: 18px 0 0; padding: 14px 16px; color: var(--blue-dark); background: #edf8ed; border-left: 4px solid var(--teal); }
 .callout strong { color: var(--teal); font-size: 1.25rem; }
 
+/* Novelty contributions */
+.novelty-grid { display: grid; gap: 18px; }
+.novelty-card { display: grid; grid-template-columns: 52px 1fr; gap: 18px; padding: 24px; background: var(--white); border: 1px solid var(--border); border-left: 4px solid var(--teal); border-radius: 6px; box-shadow: var(--shadow); }
+.novelty-card h3 { margin-bottom: 8px; }
+.novelty-card p { margin: 0; }
+.novelty-number { color: var(--teal); font-size: 1.35rem; font-weight: 800; line-height: 1.2; }
+.significance { margin: 32px 0 0; padding: 24px 0 0; color: var(--muted); border-top: 1px solid var(--border); font-style: italic; }
+
 /* Citation, footer, and accessibility */
 .citation-block { padding: 22px 24px; overflow-x: auto; color: var(--slate); background: var(--white); border: 1px solid var(--border); border-left: 4px solid var(--blue); border-radius: 6px; font-family: "SF Mono", Consolas, monospace; font-size: 0.82rem; line-height: 1.65; }
 .citation-block p { min-width: 640px; margin: 0 0 24px; }
@@ -140,6 +148,7 @@ figcaption { margin-top: 11px; color: var(--muted); font-size: 0.93rem; font-sty
   .section { padding: 48px 0; }
   .finding-grid, .selector-layout { grid-template-columns: 1fr; }
   .selector-figure { order: -1; }
+  .novelty-card { grid-template-columns: 1fr; gap: 10px; }
   th, td { padding: 12px; }
 }
 @media (max-width: 420px) {
